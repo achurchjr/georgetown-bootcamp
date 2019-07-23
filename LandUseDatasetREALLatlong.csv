@@ -1,0 +1,1566 @@
+offset,latitude,longitude,url,title
+0,38.054206,-108.864298,http://clui.org/ludb/site/slick-rock-disposal-cell,Slick Rock Disposal Cell
+1,32.952832,-111.816573,http://clui.org/ludb/site/sacaton-pit,Sacaton Pit
+2,32.511363,-111.325192,http://clui.org/ludb/site/pinal-airpark,Pinal Airpark
+3,37.049544,-88.326505,http://clui.org/ludb/site/lwd-incinerator,LWD Incinerator
+4,37.186852,-86.098824,http://clui.org/ludb/site/mammoth-cave,Mammoth Cave
+5,37.883289,-85.965207,http://clui.org/ludb/site/fort-knox,Fort Knox
+6,37.11211,-88.811287,http://clui.org/ludb/site/paducah-gaseous-diffusion-plant,Paducah Gaseous Diffusion Plant
+7,36.653584,-87.459709,http://clui.org/ludb/site/fort-campbell,Fort Campbell
+8,36.753326,-83.699509,http://clui.org/ludb/site/chained-rock,Chained Rock
+9,37.679745,-84.256599,http://clui.org/ludb/site/blue-grass-army-depot,Blue Grass Army Depot
+10,38.258676,-83.569822,http://clui.org/ludb/site/maxey-flats-radioactive-waste-site,Maxey Flats Radioactive Waste Site
+11,47.503983,-101.427155,http://clui.org/ludb/site/garrison-dam,Garrison Dam
+12,47.9431,-97.387199,http://clui.org/ludb/site/grand-forks-air-force-base,Grand Forks Air Force Base
+13,48.419891,-101.336342,http://clui.org/ludb/site/minot-air-force-base,Minot Air Force Base
+14,48.107303,-98.89501,http://clui.org/ludb/site/devils-lake-wastewater-treatment-plant,Devil&#039;s Lake Wastewater Treatment Plant
+15,48.354467,-99.998123,http://clui.org/ludb/site/geographic-center-north-america,Geographic Center of North America
+16,47.342224,-97.289169,http://clui.org/ludb/site/tallest-tower,Tallest Tower
+17,48.724407,-97.903268,http://clui.org/ludb/site/cavalier-air-force-station,Cavalier Air Force Station
+18,46.084485,-90.916843,http://clui.org/ludb/site/elf-transmitter-site,ELF Transmitter Site
+19,42.570679,-88.556267,http://clui.org/ludb/site/yerkes-observatory,Yerkes Observatory
+20,44.499199,-89.802209,http://clui.org/ludb/site/rudolph-grotto-and-wonder-cave,Rudolph Grotto and Wonder Cave
+21,43.367935,-89.75856,http://clui.org/ludb/site/badger-army-ammunition-plant,Badger Army Ammunition Plant
+22,42.732853,-90.47274,http://clui.org/ludb/site/mining-museum,Mining Museum
+23,45.67085,-90.391109,http://clui.org/ludb/site/wisconsin-concrete-park,Wisconsin Concrete Park
+24,43.363888,-89.771667,http://clui.org/ludb/site/forevertron,Forevertron
+25,43.982571,-88.580193,http://clui.org/ludb/site/eaa-air-adventure-museum,EAA Air Adventure Museum
+26,46.008383,-91.479544,http://clui.org/ludb/site/national-fresh-water-fishing-hall-fame,National Fresh Water Fishing Hall of Fame
+27,38.515442,-90.551985,http://clui.org/ludb/site/tyson-research-center,Tyson Research Center
+28,37.759857,-92.126343,http://clui.org/ludb/site/fort-leonard-wood,Fort Leonard Wood
+29,36.640653,-93.246042,http://clui.org/ludb/site/branson,Branson
+30,36.563755,-92.819214,http://clui.org/ludb/site/ozark-underground-lab,Ozark Underground Lab
+31,38.241939,-91.092383,http://clui.org/ludb/site/meramec-caverns,Meramec Caverns
+32,38.957408,-94.571922,http://clui.org/ludb/site/kansas-city-plant,Kansas City Plant
+33,38.506208,-90.600423,http://clui.org/ludb/site/times-beach,Times Beach
+34,38.731682,-93.572517,http://clui.org/ludb/site/whiteman-air-force-base,Whiteman Air Force Base
+35,38.624599,-90.184967,http://clui.org/ludb/site/gateway-west-arch,Gateway to the West Arch
+36,38.199879,-92.633286,http://clui.org/ludb/site/lake-ozarks,Lake of the Ozarks
+37,37.840698,-90.508583,http://clui.org/ludb/site/missouri-mines-historic-site,Missouri Mines Historic Site
+38,37.287933,-93.360062,http://clui.org/ludb/site/fantastic-caverns,Fantastic Caverns
+39,38.698151,-90.728264,http://clui.org/ludb/site/weldon-spring-disposal-cell,Weldon Spring Disposal Cell
+40,38.023647,-92.790749,http://clui.org/ludb/site/bridal-cave,Bridal Cave
+41,41.5317,-71.30825,http://clui.org/ludb/site/naval-undersea-warfare-center-newport,"Naval Undersea Warfare Center, Newport"
+42,41.586661,-71.420043,http://clui.org/ludb/site/general-dynamics-electric-boat-facility,General Dynamics Electric Boat Facility
+43,41.471963,-71.306755,http://clui.org/ludb/site/sod-maze,Sod Maze
+44,33.475964,-86.843158,http://clui.org/ludb/site/joe-minters-yard,Joe Minter&#039;s Yard
+45,32.59652,-87.533226,http://clui.org/ludb/site/rural-studio-newbern,Rural Studio Newbern
+46,34.6512,-86.670456,http://clui.org/ludb/site/marshall-space-flight-center-nasa,Marshall Space Flight Center (NASA )
+47,31.341469,-85.722626,http://clui.org/ludb/site/fort-rucker,Fort Rucker
+48,33.526088,-86.860743,http://clui.org/ludb/site/wade-quarry,Wade Quarry
+49,33.207644,-87.550392,http://clui.org/ludb/site/bryant-denny-stadium,Bryant-Denny Stadium
+50,34.707012,-87.120552,http://clui.org/ludb/site/browns-ferry-nuclear-power-plant,Browns Ferry Nuclear Power Plant
+51,34.770241,-87.627296,http://clui.org/ludb/site/oxychemical-muscle-shoals-plant,OxyChemical Muscle Shoals Plant
+52,32.077385,-87.28127,http://clui.org/ludb/site/gees-bend,Gee&#039;s Bend
+53,32.377026,-86.304393,http://clui.org/ludb/site/state-court-house,State Court House
+54,33.650639,-85.973854,http://clui.org/ludb/site/anniston-army-depot,Anniston Army Depot
+55,32.40419,-86.253647,http://clui.org/ludb/site/gunter-annex,Gunter Annex
+56,32.791107,-88.30759,http://clui.org/ludb/site/emelle-hazardous-waste-mound,Emelle Hazardous Waste Mound
+57,33.520808,-86.791306,http://clui.org/ludb/site/sloss-furnace,Sloss Furnace
+58,34.63893,-87.083044,http://clui.org/ludb/site/trico-decatur-mini-mill,Trico Decatur Mini Mill
+59,33.711098,-85.785324,http://clui.org/ludb/site/fort-mcclellan,Fort McClellan
+60,33.51634,-86.813444,http://clui.org/ludb/site/kelly-ingram-park,Kelly Ingram Park
+61,32.381559,-86.364298,http://clui.org/ludb/site/maxwell-air-force-base,Maxwell Air Force Base
+62,34.77296,-87.645879,http://clui.org/ludb/site/muscle-shoals-environmental-research-center,Muscle Shoals Environmental Research Center
+63,32.318439,-87.100124,http://clui.org/ludb/site/old-cahawba,Old Cahawba
+64,34.600934,-86.64505,http://clui.org/ludb/site/redstone-arsenal,Redstone Arsenal
+65,32.379498,-86.310782,http://clui.org/ludb/site/hank-williams-museum,Hank Williams Museum
+66,34.174811,-86.816677,http://clui.org/ludb/site/ave-maria-grotto,Ave Maria Grotto
+67,34.711368,-86.654148,http://clui.org/ludb/site/us-space-and-rocket-center,U.S. Space and Rocket Center
+68,34.876865,-92.130814,http://clui.org/ludb/site/vertac-chemical-waste-site,Vertac Chemical Waste Site
+69,36.106224,-93.131104,http://clui.org/ludb/site/dogpatch,Dogpatch
+70,34.912048,-92.147911,http://clui.org/ludb/site/little-rock-air-force-base,Little Rock Air Force Base
+71,35.310257,-93.231529,http://clui.org/ludb/site/arkansas-nuclear-one-power-plant,Arkansas Nuclear One Power Plant
+72,33.719486,-93.659828,http://clui.org/ludb/site/hope-field-fema-trailer-yard,Hope Field FEMA Trailer Yard
+73,36.499413,-94.61792,http://clui.org/ludb/site/ar-mo-ok-tripoint,AR MO OK Tripoint
+74,34.434948,-93.087265,http://clui.org/ludb/site/lake-hamilton-duck-tour-accident-site,Lake Hamilton Duck Tour Accident Site
+75,34.035,-93.674164,http://clui.org/ludb/site/murfreesboro-diamond-mine,Murfreesboro Diamond Mine
+76,36.365387,-94.218147,http://clui.org/ludb/site/wal-mart-headquarters,Wal-Mart Headquarters
+77,36.372456,-94.208969,http://clui.org/ludb/site/waltons-five-and-dime,Walton&#039;s Five and Dime
+78,34.513046,-93.053535,http://clui.org/ludb/site/hot-springs-national-park,Hot Springs National Park
+79,35.96439,-89.947769,http://clui.org/ludb/site/arkansas-aeroplex,Arkansas Aeroplex
+80,36.119572,-93.126724,http://clui.org/ludb/site/mystic-caverns,Mystic Caverns
+81,34.318584,-92.105179,http://clui.org/ludb/site/pine-bluff-arsenal,Pine Bluff Arsenal
+82,34.791706,-92.249481,http://clui.org/ludb/site/pughs-old-mill,Pugh&#039;s Old Mill
+83,35.298313,-94.292221,http://clui.org/ludb/site/fort-chaffee,Fort Chaffee
+84,33.368622,-117.555,http://clui.org/ludb/site/san-onofre-nuclear-power-plant,San Onofre Nuclear Power Plant
+85,40.202751,-120.120392,http://clui.org/ludb/site/sierra-army-depot,Sierra Army Depot
+86,37.430332,-121.979568,http://clui.org/ludb/site/alviso,Alviso
+87,35.475109,-115.530769,http://clui.org/ludb/site/mountain-pass-mine,Mountain Pass Mine
+88,34.948887,-116.686104,http://clui.org/ludb/site/lake-dolores,Lake Dolores
+89,35.076653,-118.255295,http://clui.org/ludb/site/tehachapi-wind-farm,Tehachapi Wind Farm
+90,34.87733,-118.23143,http://clui.org/ludb/site/tropico-ghost-town,Tropico Ghost Town
+91,34.624329,-117.600426,http://clui.org/ludb/site/el-mirage-flight-test-facility,El Mirage Flight Test Facility
+92,32.7103,-114.922648,http://clui.org/ludb/site/imperial-dunes-plank-road,Imperial Dunes Plank Road
+93,34.484165,-118.507183,http://clui.org/ludb/site/veluzat-movie-ranch,Veluzat Movie Ranch
+94,33.023777,-116.083214,http://clui.org/ludb/site/fish-creek-mine,Fish Creek Mine
+95,37.986523,-122.45443,http://clui.org/ludb/site/san-rafael-quarry,San Rafael Quarry
+96,36.488697,-117.873421,http://clui.org/ludb/site/keeler-town,"Keeler, Town of"
+97,33.588938,-117.61037,http://clui.org/ludb/site/toll-road-terminus,Toll Road Terminus
+98,35.396061,-119.320618,http://clui.org/ludb/site/frito-lay-kern-plant,Frito Lay Kern Plant
+99,33.108929,-117.155312,http://clui.org/ludb/site/mount-whitney,Mount Whitney
+100,33.04134,-115.73513,http://clui.org/ludb/site/westmorland-chemical-waste-facility,Westmorland Chemical Waste Facility
+101,37.637444,-121.50235,http://clui.org/ludb/site/site-300,Site 300
+102,32.910375,-117.02317,http://clui.org/ludb/site/sycamore-canyon-test-facility,Sycamore Canyon Test Facility
+103,37.500916,-122.106384,http://clui.org/ludb/site/hetch-hetchy-aqueducts-bay-crossing,Hetch Hetchy Aqueduct&#039;s Bay Crossing
+104,34.87484,-118.238129,http://clui.org/ludb/site/exotic-feline-breeding-center,Exotic Feline Breeding Center
+105,34.693638,-118.227821,http://clui.org/ludb/site/mira-loma-prison-complex,Mira Loma Prison Complex
+106,33.938725,-118.241104,http://clui.org/ludb/site/watts-towers,Watts Towers
+107,34.033698,-117.984216,http://clui.org/ludb/site/towers-industrial-park,Towers Industrial Park
+108,37.412109,-121.107887,http://clui.org/ludb/site/crows-landing-facility-nasa,Crows Landing Facility (NASA)
+109,32.658752,-116.099937,http://clui.org/ludb/site/desert-view-tower,Desert View Tower
+110,37.808792,-122.316033,http://clui.org/ludb/site/trans-bay-tube-bart-tunnel-oakland,Trans-Bay Tube BART Tunnel Oakland
+111,33.671379,-117.728462,http://clui.org/ludb/site/el-toro-marine-corps-air-station,El Toro Marine Corps Air Station
+112,36.807749,-119.882031,http://clui.org/ludb/site/forestiere-underground-gardens,Forestiere Underground Gardens
+113,33.70528,-115.627502,http://clui.org/ludb/site/hinds-pumping-plant,Hinds Pumping Plant
+114,34.038334,-118.217224,http://clui.org/ludb/site/linda-vista-hospital,Linda Vista Hospital
+115,33.3377,-117.427025,http://clui.org/ludb/site/camp-pendleton-marine-corps-base,Camp Pendleton Marine Corps Base
+116,33.712597,-115.401253,http://clui.org/ludb/site/desert-center,Desert Center
+117,32.929333,-115.700264,http://clui.org/ludb/site/desert-test-range-master-control-target-101,Desert Test Range Master Control / Target 101
+118,38.655415,-121.403107,http://clui.org/ludb/site/mcclellan-air-force-base,McClellan Air Force Base
+119,38.062275,-122.139427,http://clui.org/ludb/site/benicia-arsenal,Benicia Arsenal
+120,33.638628,-117.957244,http://clui.org/ludb/site/orange-county-sewage-plant-2,Orange County Sewage Plant #2
+121,34.615742,-117.606323,http://clui.org/ludb/site/aviation-parts-warehouse-inc-scrapyard,Aviation Parts Warehouse Inc. Scrapyard
+122,35.014885,-117.559204,http://clui.org/ludb/site/kramer-junction-solar-electric-generating-station,Kramer Junction Solar Electric Generating Station
+123,38.212524,-119.013344,http://clui.org/ludb/site/bodie-state-historic-park,Bodie State Historic Park
+124,37.359009,-118.70118,http://clui.org/ludb/site/mount-morgan-tungsten-mines,Mount Morgan Tungsten Mines
+125,38.024262,-121.863517,http://clui.org/ludb/site/uss-posco-plant,USS Posco Plant
+126,34.077483,-118.474851,http://clui.org/ludb/site/getty-center,Getty Center
+127,34.136173,-116.361504,http://clui.org/ludb/site/institute-mentalphysics,Institute of Mentalphysics
+128,36.058331,-119.549103,http://clui.org/ludb/site/corcoran-state-prison,Corcoran State Prison
+129,34.332821,-116.388703,http://clui.org/ludb/site/giant-rock,Giant Rock
+130,34.819683,-116.643227,http://clui.org/ludb/site/bagdad-cafe,Bagdad Cafe
+131,35.762558,-117.37999,http://clui.org/ludb/site/trona-and-searles-lake,Trona and Searles Lake
+132,34.115557,-118.755182,http://clui.org/ludb/site/paramount-ranch,Paramount Ranch
+133,36.624199,-121.7808,http://clui.org/ludb/site/fort-ord,Fort Ord
+134,34.279373,-118.707054,http://clui.org/ludb/site/bottle-village,Bottle Village
+135,34.053905,-118.259026,http://clui.org/ludb/site/los-angeles-center-studios,Los Angeles Center Studios
+136,35.320869,-120.003532,http://clui.org/ludb/site/california-valley,California Valley
+137,34.294285,-116.403969,http://clui.org/ludb/site/integratron-energy-machine,Integratron Energy Machine
+138,32.679913,-117.121681,http://clui.org/ludb/site/san-diego-naval-station,San Diego Naval Station
+139,37.416016,-122.060379,http://clui.org/ludb/site/ames-research-center-nasa,Ames Research Center (NASA)
+140,34.043926,-118.695122,http://clui.org/ludb/site/hughes-research-laboratory-hrl,Hughes Research Laboratory (HRL)
+141,37.017303,-122.002701,http://clui.org/ludb/site/mystery-spot,Mystery Spot
+142,38.044949,-122.25455,http://clui.org/ludb/site/rodeo-refinery,Rodeo Refinery
+143,32.585035,-116.931353,http://clui.org/ludb/site/otay-mesa-prison-area,Otay Mesa Prison Area
+144,35.754314,-120.783691,http://clui.org/ludb/site/camp-roberts,Camp Roberts
+145,36.331615,-119.949585,http://clui.org/ludb/site/lemoore-naval-air-station,Lemoore Naval Air Station
+146,33.356403,-116.864815,http://clui.org/ludb/site/palomar-observatory,Palomar Observatory
+147,38.060917,-122.2258,http://clui.org/ludb/site/carquinez-bridge,Carquinez Bridge
+148,37.80146,-122.466193,http://clui.org/ludb/site/presidio-san-francisco,Presidio of San Francisco
+149,35.614326,-119.868393,http://clui.org/ludb/site/blackwells-corner,Blackwells Corner
+150,33.298325,-115.957779,http://clui.org/ludb/site/salton-city,Salton City
+151,34.055984,-118.236534,http://clui.org/ludb/site/union-station,Union Station
+152,32.983662,-115.132385,http://clui.org/ludb/site/imperial-dunes-ohv-overlook,Imperial Dunes OHV Overlook
+153,37.966853,-119.120046,http://clui.org/ludb/site/mono-basin-visitor-center,Mono Basin Visitor Center
+154,37.968088,-122.387416,http://clui.org/ludb/site/west-contra-costa-county-landfill,West Contra Costa County Landfill
+155,38.010397,-122.365825,http://clui.org/ludb/site/point-pinole,Point Pinole
+156,33.561943,-114.911942,http://clui.org/ludb/site/chuckwalla-valley-prison,Chuckwalla Valley Prison
+157,32.826172,-115.670113,http://clui.org/ludb/site/el-centro-naval-air-facility,El Centro Naval Air Facility
+158,37.813866,-122.316414,http://clui.org/ludb/site/port-oakland,Port of Oakland
+159,35.289627,-117.098801,http://clui.org/ludb/site/superior-valley-gunnery-range,Superior Valley Gunnery Range
+160,33.661743,-115.722435,http://clui.org/ludb/site/general-patton-museum,General Patton Museum
+161,32.702999,-117.199699,http://clui.org/ludb/site/north-island-naval-air-station,North Island Naval Air Station
+162,37.826958,-122.527618,http://clui.org/ludb/site/nike-missile-site-sf88l,Nike Missile Site SF88L
+163,37.826309,-122.422447,http://clui.org/ludb/site/alcatraz-island,Alcatraz Island
+164,36.476033,-118.032732,http://clui.org/ludb/site/pittsburgh-glass-plant,Pittsburgh Glass Plant
+165,34.548314,-118.513663,http://clui.org/ludb/site/san-francisquito-dam-failure-site,San Francisquito Dam Failure Site
+166,38.019325,-122.116516,http://clui.org/ludb/site/martinez-refinery,Martinez Refinery
+167,33.303711,-115.817703,http://clui.org/ludb/site/salton-sea,Salton Sea
+168,33.34827,-115.729752,http://clui.org/ludb/site/bombay-beach,Bombay Beach
+169,37.956292,-119.11937,http://clui.org/ludb/site/mono-lake-commitee-visitor-center,Mono Lake Commitee Visitor Center
+170,33.861115,-114.802238,http://clui.org/ludb/site/midland,Midland
+171,35.404816,-119.610901,http://clui.org/ludb/site/lokern-hazardous-waste-facility,Lokern Hazardous Waste Facility
+172,37.318319,-121.951077,http://clui.org/ludb/site/winchester-mystery-house,Winchester Mystery House
+173,34.025763,-118.39498,http://clui.org/ludb/site/museum-jurassic-technology,Museum of Jurassic Technology
+174,41.854904,-124.149818,http://clui.org/ludb/site/pelican-bay-prison,Pelican Bay Prison
+175,37.784012,-122.31337,http://clui.org/ludb/site/alameda-naval-air-station-site,Alameda Naval Air Station Site
+176,37.178368,-121.819443,http://clui.org/ludb/site/new-almaden-mine,New Almaden Mine
+177,34.399213,-118.909761,http://clui.org/ludb/site/fillmore-train-tracks,Fillmore Train Tracks
+178,37.889771,-122.323807,http://clui.org/ludb/site/albany-dump,Albany Dump
+179,38.052639,-122.626801,http://clui.org/ludb/site/skywalker-ranch,Skywalker Ranch
+180,34.938999,-117.686401,http://clui.org/ludb/site/air-force-propulsion-lab-leuhman-ridge,"Air Force Propulsion Lab, Leuhman Ridge"
+181,34.503746,-118.314987,http://clui.org/ludb/site/agua-dulce-air-park,Agua Dulce Air Park
+182,32.730896,-117.14856,http://clui.org/ludb/site/san-diego-model-railroad-museum,San Diego Model Railroad Museum
+183,37.698471,-123.002617,http://clui.org/ludb/site/farallon-islands,Farallon Islands
+184,35.5014,-117.093307,http://clui.org/ludb/site/china-lake-naval-weapons-testing-center-south-half,"China Lake Naval Weapons Testing Center, South Half"
+185,34.6035,-118.083199,http://clui.org/ludb/site/faa-control-center-palmdale,"FAA Control Center, Palmdale"
+186,34.913338,-116.987526,http://clui.org/ludb/site/a-1-tow-yard,A-1 Tow Yard
+187,34.602844,-118.086441,http://clui.org/ludb/site/blackbird-airpark,Blackbird Airpark
+188,37.877529,-122.248329,http://clui.org/ludb/site/lawrence-berkeley-laboratory,Lawrence Berkeley Laboratory
+189,36.252693,-115.045799,http://clui.org/ludb/site/calnev-pipeline-terminus,Calnev Pipeline Terminus
+190,35.325806,-120.737083,http://clui.org/ludb/site/camp-san-luis-obispo,Camp San Luis Obispo
+191,38.029997,-121.873022,http://clui.org/ludb/site/los-medanos-energy-center,Los Medanos Energy Center
+192,32.713787,-115.535484,http://clui.org/ludb/site/heber-geothermal-plants,Heber Geothermal Plants
+193,36.13549,-117.953705,http://clui.org/ludb/site/haiwee-dam-los-angeles-aqueduct,Haiwee Dam Los Angeles Aqueduct
+194,34.62822,-118.086548,http://clui.org/ludb/site/air-force-plant-42,Air Force Plant 42
+195,33.462274,-117.547724,http://clui.org/ludb/site/trw-capistrano-test-site,TRW Capistrano Test Site
+196,34.415413,-118.794579,http://clui.org/ludb/site/piru-town,"Piru, Town of"
+197,35.064198,-118.149292,http://clui.org/ludb/site/mojave-airport,Mojave Airport
+198,35.280426,-119.469109,http://clui.org/ludb/site/naval-petroleum-reserve-1-and-2,Naval Petroleum Reserve #1 and #2
+199,32.750488,-114.7649,http://clui.org/ludb/site/felicity-center-world,"Felicity, Center of the World"
+200,34.559303,-115.745148,http://clui.org/ludb/site/town-amboy-roys-diner,"Town of Amboy, Roys Diner"
+201,33.758423,-118.078064,http://clui.org/ludb/site/former-rockwell-corporation-seal-beach-site,Former Rockwell Corporation Seal Beach Site
+202,37.742079,-122.371162,http://clui.org/ludb/site/piers-96-and-94,Piers 96 and 94
+203,34.471267,-118.483815,http://clui.org/ludb/site/blue-cloud-movie-ranch,Blue Cloud Movie Ranch
+204,34.485619,-115.726028,http://clui.org/ludb/site/bristol-dry-lake,Bristol Dry Lake
+205,32.883064,-114.465714,http://clui.org/ludb/site/imperial-dam,Imperial Dam
+206,37.870264,-122.497183,http://clui.org/ludb/site/marinship-site,Marinship Site
+207,34.091963,-118.401534,http://clui.org/ludb/site/graystone-mansion,Graystone Mansion
+208,32.908754,-115.567074,http://clui.org/ludb/site/brawley-sugar-plant,Brawley Sugar Plant
+209,33.19165,-115.83638,http://clui.org/ludb/site/salton-sea-test-base,Salton Sea Test Base
+210,37.825787,-122.370872,http://clui.org/ludb/site/treasure-island,Treasure Island
+211,35.266356,-116.072686,http://clui.org/ludb/site/worlds-largest-thermometer,World&#039;s Largest Thermometer
+212,33.920681,-116.772804,http://clui.org/ludb/site/cabazon,Cabazon
+213,35.315208,-118.045006,http://clui.org/ludb/site/los-angeles-aqueduct-jawbone-canyon-pipe,Los Angeles Aqueduct Jawbone Canyon Pipe
+214,34.858467,-116.790245,http://clui.org/ludb/site/daggett-airport,Daggett Airport
+215,35.37561,-120.03846,http://clui.org/ludb/site/abandoned-solar-power-plant,Abandoned Solar Power Plant
+216,37.41497,-122.051773,http://clui.org/ludb/site/moffett-field-complex,Moffett Field Complex
+217,35.277026,-116.662617,http://clui.org/ludb/site/fort-irwin-military-reservation,Fort Irwin Military Reservation
+218,34.81425,-118.681226,http://clui.org/ludb/site/california-aqueduct-east-branch,California Aqueduct East Branch
+219,36.801594,-118.203499,http://clui.org/ludb/site/eastern-california-museum,Eastern California Museum
+220,37.809741,-122.365011,http://clui.org/ludb/site/coast-guard-vessel-tracking-station,Coast Guard Vessel Tracking Station
+221,34.10844,-119.064789,http://clui.org/ludb/site/laguna-peak-tracking-station,Laguna Peak Tracking Station
+222,33.916164,-118.380768,http://clui.org/ludb/site/aerospace-corporation,Aerospace Corporation
+223,34.101844,-118.329406,http://clui.org/ludb/site/security-national-bank,Security National Bank
+224,33.886074,-116.935753,http://clui.org/ludb/site/lockheed-rocket-test-site,Lockheed Rocket Test Site
+225,34.563705,-118.13266,http://clui.org/ludb/site/san-andreas-fault-cross-section-palmdale,"San Andreas Fault Cross-Section, Palmdale"
+226,36.320616,-118.022089,http://clui.org/ludb/site/cartago,Cartago
+227,35.201111,-118.536362,http://clui.org/ludb/site/tehachapi-loop,Tehachapi Loop
+228,35.142799,-116.103699,http://clui.org/ludb/site/zzyzx,Zzyzx
+229,34.199753,-118.171951,http://clui.org/ludb/site/jet-propulsion-laboratory-jpl,Jet Propulsion Laboratory (JPL)
+230,33.254082,-115.472603,http://clui.org/ludb/site/salvation-mountain,Salvation Mountain
+231,37.860596,-122.431068,http://clui.org/ludb/site/angel-island,Angel Island
+232,34.230824,-118.696373,http://clui.org/ludb/site/rocketdyne-field-laboratory,Rocketdyne Field Laboratory
+233,39.536789,-121.483894,http://clui.org/ludb/site/oroville-dam-and-reservoir,Oroville Dam and Reservoir
+234,34.149821,-118.183365,http://clui.org/ludb/site/eagle-rock-substation,Eagle Rock Substation
+235,34.650059,-117.850311,http://clui.org/ludb/site/antelope-valley-indian-museum,Antelope Valley Indian Museum
+236,37.965406,-122.426893,http://clui.org/ludb/site/last-whaling-station-ruins,Last Whaling Station Ruins
+237,37.817796,-122.347291,http://clui.org/ludb/site/san-francisco-bay-bridge,San Francisco Bay Bridge
+238,37.39841,-118.34596,http://clui.org/ludb/site/laws-railroad-museum,Laws Railroad Museum
+239,34.258263,-116.921326,http://clui.org/ludb/site/big-bear-solar-observatory,Big Bear Solar Observatory
+240,35.341816,-116.873181,http://clui.org/ludb/site/goldstone-deep-space-tracking-center,Goldstone Deep Space Tracking Center
+241,34.434563,-118.634407,http://clui.org/ludb/site/van-nuys-general-mail-facility-postal-carrier-training-site,Van Nuys General Mail Facility Postal Carrier Training Site
+242,34.870651,-118.264259,http://clui.org/ludb/site/willow-springs-raceway,Willow Springs Raceway
+243,35.410411,-117.876037,http://clui.org/ludb/site/burro-schmidt-tunnel,Burro Schmidt Tunnel
+244,33.891331,-117.26387,http://clui.org/ludb/site/march-air-force-base,March Air Force Base
+245,38.0466,-122.182892,http://clui.org/ludb/site/port-costa,Port Costa
+246,37.911903,-122.359459,http://clui.org/ludb/site/port-richmond,Port of Richmond
+247,34.566868,-117.364776,http://clui.org/ludb/site/victorville-federal-prison,Victorville Federal Prison
+248,38.356876,-119.516487,http://clui.org/ludb/site/marine-corps-mountain-warfare-training-center,Marine Corps Mountain Warfare Training Center
+249,37.800392,-121.621529,http://clui.org/ludb/site/harvey-o-banks-pumping-plant,Harvey O. Banks Pumping Plant
+250,34.10881,-118.388588,http://clui.org/ludb/site/lookout-mountain,Lookout Mountain
+251,34.377697,-118.475377,http://clui.org/ludb/site/golden-oak-ranch,Golden Oak Ranch
+252,40.817253,-121.470712,http://clui.org/ludb/site/hat-creek-radio-observatory,Hat Creek Radio Observatory
+253,34.881706,-116.68605,http://clui.org/ludb/site/cheyenne-lake,Cheyenne Lake
+254,34.195748,-116.288229,http://clui.org/ludb/site/noah-purifoy-art-site,Noah Purifoy Art Site
+255,37.738065,-122.368657,http://clui.org/ludb/site/port-san-francisco-pier-98,Port of San Francisco Pier 98
+256,35.803548,-117.87137,http://clui.org/ludb/site/pearsonville,Pearsonville
+257,37.520336,-122.029289,http://clui.org/ludb/site/cargill-salt,Cargill Salt
+258,35.014719,-116.701058,http://clui.org/ludb/site/st-anthony-coptic-orthodox-monastery,St. Anthony Coptic Orthodox Monastery
+259,35.02782,-118.162036,http://clui.org/ludb/site/mojave-industrial-park,Mojave Industrial Park
+260,33.291569,-115.492393,http://clui.org/ludb/site/camp-billy-machen-navy-seal-training-facility,Camp Billy Machen Navy SEAL Training Facility
+261,35.357521,-117.661514,http://clui.org/ludb/site/rand-mine,Rand  Mine
+262,38.274441,-121.939919,http://clui.org/ludb/site/travis-air-force-base,Travis Air Force Base
+263,34.647804,-117.609573,http://clui.org/ludb/site/el-mirage-lake,El Mirage Lake
+264,34.577324,-117.363518,http://clui.org/ludb/site/southern-california-logistics-airport,Southern California Logistics Airport
+265,33.91893,-118.381256,http://clui.org/ludb/site/los-angeles-air-force-base,Los Angeles Air Force Base
+266,35.435849,-115.924559,http://clui.org/ludb/site/turquoise-peak-communication-site,Turquoise Peak Communication Site
+267,34.155095,-119.209009,http://clui.org/ludb/site/port-hueneme-navy-base,Port Hueneme Navy Base
+268,34.787432,-118.586796,http://clui.org/ludb/site/los-angeles-california-aqueduct-intersection,Los Angeles / California Aqueduct Intersection
+269,37.762081,-122.38408,http://clui.org/ludb/site/san-francisco-drydock,San Francisco Drydock
+270,37.723751,-122.364414,http://clui.org/ludb/site/hunters-point-shipyard,Hunters Point Shipyard
+271,37.466328,-121.974068,http://clui.org/ludb/site/drawbridge-town-site,Drawbridge Town Site
+272,34.077351,-118.225067,http://clui.org/ludb/site/lincoln-heights-jail,Lincoln Heights Jail
+273,32.876398,-116.414754,http://clui.org/ludb/site/mount-laguna-air-force-station,Mount Laguna Air Force Station
+274,33.130131,-115.694702,http://clui.org/ludb/site/new-river-terminus,New River Terminus
+275,33.859624,-115.485878,http://clui.org/ludb/site/eagle-mountain-mine,Eagle Mountain Mine
+276,37.458916,-121.944038,http://clui.org/ludb/site/newby-island-landfill,Newby Island Landfill
+277,37.58374,-118.236893,http://clui.org/ludb/site/white-mountain-research-station,White Mountain Research Station
+278,32.631878,-116.938141,http://clui.org/ludb/site/olympic-training-center,Olympic Training Center
+279,37.679372,-121.707627,http://clui.org/ludb/site/sandia-national-laboratory-livermore,"Sandia National Laboratory, Livermore"
+280,34.865239,-116.825781,http://clui.org/ludb/site/daggett-solar-electric-generating-station,Daggett Solar Electric Generating Station
+281,37.069157,-121.081612,http://clui.org/ludb/site/san-luis-reservoir-and-dam,San Luis Reservoir and Dam
+282,34.32468,-118.497643,http://clui.org/ludb/site/los-angeles-aqueduct-terminus-cascades,"Los Angeles Aqueduct Terminus, The Cascades"
+283,37.450849,-122.103655,http://clui.org/ludb/site/byxbee-park,Byxbee Park
+284,37.650324,-121.493093,http://clui.org/ludb/site/tracy-test-facility,Tracy Test Facility
+285,33.909603,-118.410881,http://clui.org/ludb/site/chevrons-el-segundo-refinery,Chevron&#039;s El Segundo Refinery
+286,33.519447,-115.93749,http://clui.org/ludb/site/north-shores-yacht-club,North Shores Yacht Club
+287,37.506866,-122.11776,http://clui.org/ludb/site/dumbarton-bridge,Dumbarton Bridge
+288,36.727811,-118.152831,http://clui.org/ludb/site/manzanar-internment-camp,Manzanar Internment Camp
+289,34.195194,-118.601959,http://clui.org/ludb/site/los-angeles-river-headwaters,Los Angeles River Headwaters
+290,33.486125,-117.623668,http://clui.org/ludb/site/prima-deshecha-landfill,Prima Deshecha Landfill
+291,38.026126,-122.168816,http://clui.org/ludb/site/ozol-terminal,Ozol Terminal
+292,38.88121,-121.060364,http://clui.org/ludb/site/auburn-dam-site,Auburn Dam Site
+293,34.044807,-118.251839,http://clui.org/ludb/site/bank-america-old-main-branch,Bank of America Old Main Branch
+294,34.90406,-117.160561,http://clui.org/ludb/site/pge-hinkley-compressor-plant,PG&amp;E Hinkley Compressor Plant
+295,37.431213,-121.94648,http://clui.org/ludb/site/san-jose-treatment-plant,San Jose Treatment Plant
+296,33.644875,-117.978142,http://clui.org/ludb/site/aes-power-plant,AES Power Plant
+297,34.95755,-120.63752,http://clui.org/ludb/site/ten-commandments-archeological-site,Ten Commandments Archeological Site
+298,36.304094,-118.021928,http://clui.org/ludb/site/crystal-geyser-olancha-plant,Crystal Geyser Olancha Plant
+299,33.34659,-116.712002,http://clui.org/ludb/site/navy-survival-training-site,Navy Survival Training Site
+300,35.010876,-117.331924,http://clui.org/ludb/site/lockhart-town-site-harper-dry-lake,"Lockhart Town Site, Harper Dry Lake"
+301,34.871868,-116.83419,http://clui.org/ludb/site/solar-two-experimental-solar-facility-site,Solar Two Experimental Solar Facility SIte
+302,34.731176,-120.539031,http://clui.org/ludb/site/vandenberg-air-force-base,Vandenberg Air Force Base
+303,34.822126,-114.977589,http://clui.org/ludb/site/ward-valley-proposed-radioactive-waste-site,Ward Valley Proposed Radioactive Waste Site
+304,34.182973,-117.872717,http://clui.org/ludb/site/morris-reservoir-test-site,Morris Reservoir Test Site
+305,33.751039,-118.060541,http://clui.org/ludb/site/seal-beach-naval-weapons-station,Seal Beach Naval Weapons Station
+306,37.913815,-122.332474,http://clui.org/ludb/site/richmond-field-station,Richmond Field Station
+307,37.939806,-122.377849,http://clui.org/ludb/site/general-chemical-plant,General Chemical Plant
+308,34.079395,-114.813309,http://clui.org/ludb/site/rice,Rice
+309,35.047444,-116.703558,http://clui.org/ludb/site/coyote-dry-lake-return-electrode,Coyote Dry Lake Return Electrode
+310,38.056877,-122.222511,http://clui.org/ludb/site/ch-plant,C&amp;H Plant
+311,36.587113,-118.239149,http://clui.org/ludb/site/whitney-portal,Whitney Portal
+312,33.742958,-118.396484,http://clui.org/ludb/site/marineland-site,Marineland Site
+313,37.41489,-122.216888,http://clui.org/ludb/site/stanford-linear-accelerator,Stanford Linear Accelerator
+314,34.982089,-118.192291,http://clui.org/ludb/site/rosamond-mining-district,Rosamond Mining District
+315,37.941151,-122.392159,http://clui.org/ludb/site/chevrons-richmond-refinery,Chevron&#039;s Richmond Refinery
+316,34.720733,-116.162229,http://clui.org/ludb/site/ludlow-town,"Ludlow, Town of"
+317,33.856525,-117.175285,http://clui.org/ludb/site/lake-perris,Lake Perris
+318,34.457606,-118.577591,http://clui.org/ludb/site/rye-canyon-office-park,Rye Canyon Office Park
+319,33.765202,-117.746002,http://clui.org/ludb/site/loma-ridge-emergency-operations-center,Loma Ridge Emergency Operations Center
+320,33.812172,-117.918961,http://clui.org/ludb/site/disneyland,Disneyland
+321,35.028645,-118.314705,http://clui.org/ludb/site/california-portland-cement-companys-mojave-plant,California Portland Cement Company&#039;s Mojave Plant
+322,34.874725,-116.953156,http://clui.org/ludb/site/barstow-marine-corps-logistics-base-nebo,Barstow Marine Corps Logistics Base Nebo
+323,38.071541,-122.138275,http://clui.org/ludb/site/benicia-refinery,Benicia Refinery
+324,37.343056,-121.637222,http://clui.org/ludb/site/lick-observatory,Lick Observatory
+325,37.773335,-122.384171,http://clui.org/ludb/site/mission-rock-terminal,Mission Rock Terminal
+326,37.404461,-122.027977,http://clui.org/ludb/site/onizuka-air-force-station,Onizuka Air Force Station
+327,34.506568,-117.827061,http://clui.org/ludb/site/llano-del-rio-site,Llano Del Rio Site
+328,34.777109,-117.317765,http://clui.org/ludb/site/exotic-world-burlesque-museum-site,Exotic World Burlesque Museum Site
+329,33.706776,-117.821671,http://clui.org/ludb/site/tustin-hangars,Tustin Hangars
+330,32.930031,-115.729897,http://clui.org/ludb/site/navy-target-103,Navy Target 103
+331,34.435513,-117.357124,http://clui.org/ludb/site/cal-earth,Cal-Earth
+332,33.022327,-115.005634,http://clui.org/ludb/site/mesquite-regional-landfill-site,Mesquite Regional Landfill Site
+333,33.80052,-114.532039,http://clui.org/ludb/site/blythe-intaglios,Blythe Intaglios
+334,34.587713,-117.871865,http://clui.org/ludb/site/four-aces-diner-set,Four Aces Diner Set
+335,32.731837,-114.825175,http://clui.org/ludb/site/all-american-canal,All American Canal
+336,34.131542,-117.938297,http://clui.org/ludb/site/raider-crater,Raider Crater
+337,38.017342,-121.845063,http://clui.org/ludb/site/delta-energy-center,Delta Energy Center
+338,34.427902,-118.664673,http://clui.org/ludb/site/del-valle-training-center,Del Valle Training Center
+339,36.416032,-120.672973,http://clui.org/ludb/site/new-idria-mining-area,New Idria Mining Area
+340,39.137318,-121.395576,http://clui.org/ludb/site/beale-air-force-base,Beale Air Force Base
+341,38.026257,-122.065018,http://clui.org/ludb/site/avon-refinery,Avon Refinery
+342,33.166222,-115.484657,http://clui.org/ludb/site/calipatria-prison,Calipatria Prison
+343,33.156315,-115.639923,http://clui.org/ludb/site/salton-sea-geothermal-plants,Salton Sea Geothermal Plants
+344,38.208883,-121.940807,http://clui.org/ludb/site/bf-goodrich-explosives-plant,BF Goodrich Explosives Plant
+345,34.95071,-117.88652,http://clui.org/ludb/site/dryden-flight-research-center-nasa,Dryden Flight Research Center (NASA)
+346,34.662172,-118.761064,http://clui.org/ludb/site/vista-del-lago-visitors-center,Vista Del Lago Visitors Center
+347,35.153423,-117.858521,http://clui.org/ludb/site/california-city-prison,California City Prison
+348,34.922871,-117.370269,http://clui.org/ludb/site/hawes-auxiliary-field-tower-site,Hawes Auxiliary Field Tower Site
+349,36.537762,-117.79497,http://clui.org/ludb/site/cerro-gordo-mine,Cerro Gordo Mine
+350,38.073635,-122.096039,http://clui.org/ludb/site/suisun-bay-mothballed-fleet,Suisun Bay Mothballed Fleet
+351,34.948261,-116.761581,http://clui.org/ludb/site/calico-early-man-site,Calico Early Man Site
+352,37.097397,-120.154381,http://clui.org/ludb/site/chowchilla-prisons,Chowchilla Prisons
+353,35.091378,-119.40138,http://clui.org/ludb/site/lakeview-gusher,Lakeview Gusher
+354,33.912125,-117.820312,http://clui.org/ludb/site/diemer-filtration-plant,Diemer Filtration Plant
+355,33.807753,-115.451632,http://clui.org/ludb/site/eagle-mountain-pumping-plant,Eagle Mountain Pumping Plant
+356,34.103683,-117.241287,http://clui.org/ludb/site/norton-air-force-base,Norton Air Force Base
+357,34.118042,-119.111877,http://clui.org/ludb/site/point-mugu-naval-air-weapons-station,Point Mugu Naval Air Weapons Station
+358,34.039383,-118.259659,http://clui.org/ludb/site/herald-examiner-building,Herald Examiner Building
+359,33.744907,-118.224767,http://clui.org/ludb/site/sea-launch-home-port,Sea Launch Home Port
+360,37.686037,-121.7065,http://clui.org/ludb/site/lawrence-livermore-national-laboratory,Lawrence Livermore National Laboratory
+361,34.05611,-118.167778,http://clui.org/ludb/site/sybil-brand-womens-prison,Sybil Brand Women&#039;s Prison
+362,34.067486,-115.264824,http://clui.org/ludb/site/colorado-river-aqueduct,Colorado River Aqueduct
+363,36.302146,-116.414632,http://clui.org/ludb/site/amargosa-opera-house,Amargosa Opera House
+364,34.080542,-117.506386,http://clui.org/ludb/site/kaiser-steel-plant-site,Kaiser Steel Plant Site
+365,34.614738,-118.11573,http://clui.org/ludb/site/lockheed-skunk-works,Lockheed Skunk Works
+366,32.871955,-115.748847,http://clui.org/ludb/site/parachute-test-area,Parachute Test Area
+367,34.06085,-118.279029,http://clui.org/ludb/site/park-plaza-hotel,Park Plaza Hotel
+368,37.511226,-122.211421,http://clui.org/ludb/site/port-redwood-city,Port of Redwood City
+369,33.257778,-115.463333,http://clui.org/ludb/site/slab-city,Slab City
+370,35.79554,-117.601776,http://clui.org/ludb/site/china-lake-naval-weapons-testing-center,China Lake Naval Weapons Testing Center
+371,38.021087,-122.288647,http://clui.org/ludb/site/hercules-explosive-plant-site,Hercules Explosive Plant Site
+372,35.047073,-117.692413,http://clui.org/ludb/site/us-borax-boron-mine,U.S. Borax Boron Mine
+373,37.863564,-122.494896,http://clui.org/ludb/site/bay-model,Bay Model
+374,34.875992,-118.891068,http://clui.org/ludb/site/tejon-ranch,Tejon Ranch
+375,34.225994,-118.057045,http://clui.org/ludb/site/mount-wilson-observatory,Mount Wilson Observatory
+376,38.018109,-121.762344,http://clui.org/ludb/site/contra-costa-county-power-plant,Contra Costa County Power Plant
+377,32.534456,-117.122784,http://clui.org/ludb/site/borderfield-area,Borderfield Area
+378,34.662202,-117.862334,http://clui.org/ludb/site/club-ed,Club Ed
+379,33.358612,-117.280769,http://clui.org/ludb/site/fallbrook-naval-weapons-station,Fallbrook Naval Weapons Station
+380,33.942505,-116.899338,http://clui.org/ludb/site/san-gorgonio-pass-wind-array,San Gorgonio Pass Wind Array
+381,35.972935,-116.274453,http://clui.org/ludb/site/shoshone-gulch-cave-homes,Shoshone Gulch Cave Homes
+382,33.9254,-118.429802,http://clui.org/ludb/site/hyperion-treatment-plant,Hyperion Treatment Plant
+383,33.246346,-119.503098,http://clui.org/ludb/site/san-nicolas-island,San Nicolas Island
+384,38.093353,-121.886305,http://clui.org/ludb/site/suisun-marsh-salinity-control-structure,Suisun Marsh Salinity Control Structure
+385,35.272671,-117.962784,http://clui.org/ludb/site/honda-proving-center,Honda Proving Center
+386,33.222389,-115.596725,http://clui.org/ludb/site/mullet-island,Mullet Island
+387,34.741926,-117.346022,http://clui.org/ludb/site/silver-lakes,Silver Lakes
+388,38.195562,-122.388479,http://clui.org/ludb/site/skaggs-island,Skaggs Island
+389,37.409528,-122.033182,http://clui.org/ludb/site/lockheed-martin-sunnyvale,Lockheed Martin Sunnyvale
+390,34.203018,-118.470566,http://clui.org/ludb/site/orion-avenue,Orion Avenue
+391,35.031624,-117.346001,http://clui.org/ludb/site/harper-lake-solar-electric-generating-station,Harper Lake Solar Electric Generating Station
+392,35.324596,-120.69857,http://clui.org/ludb/site/california-mens-colony,California Men&#039;s Colony
+393,38.039326,-121.894298,http://clui.org/ludb/site/pittsburg-power-plant,Pittsburg Power Plant
+394,38.050529,-122.012186,http://clui.org/ludb/site/concord-weapons-station,Concord  Weapons Station
+395,37.950206,-122.418562,http://clui.org/ludb/site/point-molate,Point Molate
+396,34.38365,-118.511772,http://clui.org/ludb/site/melody-ranch,Melody Ranch
+397,34.157038,-116.494512,http://clui.org/ludb/site/pioneertown,Pioneertown
+398,34.948399,-116.865044,http://clui.org/ludb/site/calico-ghost-town-park,Calico Ghost Town Park
+399,35.962372,-120.010185,http://clui.org/ludb/site/kettleman-hills-hazardous-waste-facility,Kettleman Hills Hazardous Waste Facility
+400,34.822239,-117.296692,http://clui.org/ludb/site/lockheeds-helendale-radar-cross-section-facility,Lockheed&#039;s Helendale Radar Cross Section Facility
+401,33.731411,-118.269874,http://clui.org/ludb/site/southwest-marine,Southwest Marine
+402,34.56516,-117.682425,http://clui.org/ludb/site/gray-butte-uav-site,Gray Butte UAV Site
+403,34.8979,-117.05014,http://clui.org/ludb/site/barstow-railroad-yards,Barstow Railroad Yards
+404,34.869102,-118.205254,http://clui.org/ludb/site/rosamond-skypark,Rosamond Skypark
+405,38.006714,-118.997726,http://clui.org/ludb/site/mono-lake,Mono Lake
+406,39.371994,-120.912697,http://clui.org/ludb/site/malakoff-diggins,Malakoff Diggins
+407,34.893608,-116.86998,http://clui.org/ludb/site/barstow-marine-corps-logistics-base-yermo-annex,Barstow Marine Corps Logistics Base Yermo Annex
+408,34.927695,-117.8615,http://clui.org/ludb/site/edwards-air-force-base,Edwards Air Force Base
+409,35.973633,-121.281273,http://clui.org/ludb/site/fort-hunter-liggett,Fort Hunter Liggett
+410,37.011623,-121.629242,http://clui.org/ludb/site/circus-trees,Circus Trees
+411,33.781136,-117.878838,http://clui.org/ludb/site/orange-crush-interchange,Orange Crush Interchange
+412,34.059887,-118.297089,http://clui.org/ludb/site/ambassador-hotel-site,Ambassador Hotel Site
+413,34.980045,-117.188499,http://clui.org/ludb/site/desert-research-station,Desert Research Station
+414,38.024668,-121.85252,http://clui.org/ludb/site/dow-chemical-pittsburg,Dow Chemical Pittsburg
+415,34.113085,-117.968767,http://clui.org/ludb/site/santa-fe-dam,Santa Fe Dam
+416,34.183544,-117.273239,http://clui.org/ludb/site/arrowhead-water-source,Arrowhead Water Source
+417,34.927082,-118.530975,http://clui.org/ludb/site/northrop-tejon-ranch-radar-cross-section-facility,Northrop Tejon Ranch Radar Cross Section Facility
+418,36.823555,-121.74173,http://clui.org/ludb/site/isla-de-umunnum,Isla de Umunnum
+419,33.126492,-115.516678,http://clui.org/ludb/site/calipatria-flagpole,Calipatria Flagpole
+420,33.739345,-118.278878,http://clui.org/ludb/site/los-angeles-maritime-museum,Los Angeles Maritime Museum
+421,33.050007,-114.985313,http://clui.org/ludb/site/mesquite-mine,Mesquite Mine
+422,35.350966,-117.61949,http://clui.org/ludb/site/pre-plastic-junk-museum,Pre Plastic Junk Museum
+423,37.923176,-122.410912,http://clui.org/ludb/site/long-wharf-richmond,"Long Wharf, Richmond"
+424,34.501766,-120.496048,http://clui.org/ludb/site/bixby-ranch-gate,Bixby Ranch Gate
+425,32.884495,-117.239807,http://clui.org/ludb/site/san-diego-supercomputer-center,San Diego Supercomputer Center
+426,37.139755,-122.201912,http://clui.org/ludb/site/lockheed-martin-santa-cruz-facility,Lockheed Martin Santa Cruz Facility
+427,38.057218,-122.512429,http://clui.org/ludb/site/hamilton-field,Hamilton Field
+428,38.094654,-122.272728,http://clui.org/ludb/site/mare-island,Mare Island
+429,32.675766,-117.16037,http://clui.org/ludb/site/coronado-naval-amphibious-base,Coronado Naval Amphibious Base
+430,32.794453,-116.962296,http://clui.org/ludb/site/unarius-landing-site,Unarius Landing Site
+431,32.792469,-115.858643,http://clui.org/ludb/site/plaster-city,Plaster City
+432,37.344452,-121.908653,http://clui.org/ludb/site/guadalupe-river-park,Guadalupe River Park
+433,34.236359,-116.061714,http://clui.org/ludb/site/twentynine-palms-marine-corps-air-ground-combat-center,Twentynine Palms Marine Corps Air-Ground Combat Center
+434,32.873669,-117.138458,http://clui.org/ludb/site/miramar-marine-corps-air-station,Miramar Marine Corps Air Station
+435,35.079128,-117.578979,http://clui.org/ludb/site/boron-air-station-and-prison,Boron Air Station and Prison
+436,34.063278,-118.361618,http://clui.org/ludb/site/johnies-coffee-shop,Johnies Coffee Shop
+437,34.231766,-118.712769,http://clui.org/ludb/site/energy-technology-engineering-center-santa-susana-field-lab,"Energy Technology Engineering Center, Santa Susana Field Lab"
+438,34.94236,-118.824348,http://clui.org/ludb/site/edmonston-pumping-plant,Edmonston Pumping Plant
+439,34.99947,-117.650604,http://clui.org/ludb/site/boron-town,"Boron, Town of"
+440,34.04641,-118.252251,http://clui.org/ludb/site/los-angeles-theatre,Los Angeles Theatre
+441,37.232492,-118.294666,http://clui.org/ludb/site/owens-valley-radio-observatory,Owens Valley Radio Observatory
+442,34.605151,-117.338941,http://clui.org/ludb/site/riverside-cement-company,Riverside Cement Company
+443,42.843578,-71.205185,http://clui.org/ludb/site/americas-stonehenge,America&#039;s Stonehenge
+444,43.075909,-70.815987,http://clui.org/ludb/site/pease-air-force-base,Pease Air Force Base
+445,42.933609,-71.98658,http://clui.org/ludb/site/very-long-baseline-array-antenna,Very Long Baseline Array Antenna
+446,43.73391,-71.58857,http://clui.org/ludb/site/squam-lakes-natural-science-center,Squam Lakes Natural Science Center
+447,44.270832,-71.303497,http://clui.org/ludb/site/top-mount-washington,Top of Mount Washington
+448,43.589561,-71.992225,http://clui.org/ludb/site/ruggles-mine,Ruggles Mine
+449,44.256742,-71.633788,http://clui.org/ludb/site/crossroads-america-museum,Crossroads of America Museum
+450,43.782183,-71.781495,http://clui.org/ludb/site/polar-caves-park,Polar Caves Park
+451,42.861111,-72.10833,http://clui.org/ludb/site/mount-monadnock,Mount Monadnock
+452,43.723824,-72.272058,http://clui.org/ludb/site/us-army-cold-regions-research-and-engineering-laboratory-crrel,U.S. Army Cold Regions Research and Engineering Laboratory (CRREL)
+453,42.894199,-71.986504,http://clui.org/ludb/site/macdowell-dam,MacDowell Dam
+454,41.14439,-100.829456,http://clui.org/ludb/site/bailey-railroad-yard,Bailey Railroad Yard
+455,40.394753,-95.650558,http://clui.org/ludb/site/meriwether-lewis-dredge-museum-missouri-river-history,Meriwether Lewis Dredge &amp; Museum of Missouri River History
+456,40.503098,-98.951241,http://clui.org/ludb/site/harold-warp-pioneer-villiage,Harold Warp Pioneer Villiage
+457,41.209938,-95.951767,http://clui.org/ludb/site/omaha-stockyards,Omaha Stockyards
+458,41.116608,-95.900002,http://clui.org/ludb/site/offutt-air-force-base,Offutt Air Force Base
+459,40.987617,-98.048156,http://clui.org/ludb/site/art-farm,Art Farm
+460,41.25144,-95.928479,http://clui.org/ludb/site/western-heritage-museum,Western Heritage Museum
+461,41.25341,-95.927155,http://clui.org/ludb/site/harriman-dispatching-center,Harriman Dispatching Center
+462,41.015369,-96.319962,http://clui.org/ludb/site/strategic-air-and-space-museum,Strategic Air and Space Museum
+463,41.256279,-95.927361,http://clui.org/ludb/site/conagra-foods-corporate-headquarters,ConAgra Foods Corporate Headquarters
+464,42.142326,-102.857925,http://clui.org/ludb/site/carhenge,Carhenge
+465,43.908274,-69.813936,http://clui.org/ludb/site/bath-iron-works,Bath Iron Works
+466,43.899567,-69.923996,http://clui.org/ludb/site/naval-air-station-brunswick,Naval Air Station Brunswick
+467,44.982756,-70.714542,http://clui.org/ludb/site/wilhem-reich-museum,Wilhem Reich Museum
+468,46.941601,-67.898582,http://clui.org/ludb/site/loring-air-force-base,Loring Air Force Base
+469,43.907509,-69.963252,http://clui.org/ludb/site/peary-macmillan-arctic-museum,Peary-MacMillan Arctic Museum
+470,43.858599,-70.156379,http://clui.org/ludb/site/desert-maine,Desert of Maine
+471,46.688896,-68.044678,http://clui.org/ludb/site/presque-isle-air-force-base,Presque Isle Air Force Base
+472,43.955355,-69.694283,http://clui.org/ludb/site/maine-yankee-nuclear-power-plant-site,Maine Yankee Nuclear Power Plant Site
+473,43.080017,-70.733864,http://clui.org/ludb/site/portsmouth-naval-shipyard,Portsmouth Naval Shipyard
+474,43.80791,-70.163979,http://clui.org/ludb/site/delorme-mapping-company-headquarters,DeLorme Mapping Company Headquarters
+475,44.404285,-68.012938,http://clui.org/ludb/site/prospect-harbor-naval-satellite-operations-station,Prospect Harbor Naval Satellite Operations Station
+476,44.646431,-67.28096,http://clui.org/ludb/site/naval-computer-and-telecommunications-station,The Naval Computer and Telecommunications Station
+477,44.668123,-69.618897,http://clui.org/ludb/site/pratt-farm,Pratt Farm
+478,40.688083,-75.205423,http://clui.org/ludb/site/national-canal-museum,National Canal Museum
+479,41.417001,-75.715115,http://clui.org/ludb/site/pennsylvania-anthracite-heritage-museum,Pennsylvania Anthracite Heritage Museum
+480,40.351486,-78.771187,http://clui.org/ludb/site/johnstown-flood-national-monument,Johnstown Flood National Monument
+481,40.623001,-80.431999,http://clui.org/ludb/site/shippingport-nuclear-power-plant,Shippingport Nuclear Power Plant
+482,40.676815,-75.495834,http://clui.org/ludb/site/saylor-park-cement-industry-museum,Saylor Park Cement Industry Museum
+483,41.611315,-79.658318,http://clui.org/ludb/site/drake-well-museum,Drake Well Museum
+484,40.436921,-76.569546,http://clui.org/ludb/site/fort-indiantown-gap,Fort Indiantown Gap
+485,40.256162,-80.199133,http://clui.org/ludb/site/canonsburg-uranium-tailings-site,Canonsburg Uranium Tailings Site
+486,39.738749,-77.413243,http://clui.org/ludb/site/raven-rock-underground-command-center-site-r,Raven Rock Underground Command Center (Site R)
+487,39.825546,-75.368317,http://clui.org/ludb/site/commodore-barry-bridge,Commodore Barry Bridge
+488,39.985241,-76.151733,http://clui.org/ludb/site/national-toy-train-museum,National Toy Train Museum
+489,40.881721,-77.611542,http://clui.org/ludb/site/penns-cave,Penn&#039;s Cave
+490,41.367599,-75.685523,http://clui.org/ludb/site/erosion-and-sedimentation-plan-red-ash-and-coal-silt-area,Erosion and Sedimentation Plan for Red Ash and Coal Silt Area
+491,40.216255,-75.073013,http://clui.org/ludb/site/naval-air-warfare-center,Naval Air Warfare Center
+492,40.993332,-75.862778,http://clui.org/ludb/site/eckley-miners-village,Eckley Miner&#039;s Village
+493,40.153294,-76.725342,http://clui.org/ludb/site/three-mile-island,Three Mile Island
+494,39.812229,-75.426056,http://clui.org/ludb/site/marcus-hook-refinery,Marcus Hook Refinery
+495,40.305905,-79.977956,http://clui.org/ludb/site/national-energy-technology-laboratory-pittsburgh-doe,"National Energy Technology  Laboratory, Pittsburgh (DOE)"
+496,40.61454,-75.368568,http://clui.org/ludb/site/bethlehem-steel-plant,Bethlehem Steel Plant
+497,40.3563,-79.899696,http://clui.org/ludb/site/bettis-atomic-power-laboratory,Bettis Atomic Power Laboratory
+498,40.512715,-76.121312,http://clui.org/ludb/site/roadside-america,Roadside America
+499,40.199821,-75.148201,http://clui.org/ludb/site/willow-grove-naval-air-station,Willow Grove Naval Air Station
+500,40.162666,-74.768266,http://clui.org/ludb/site/falls-township-trash-plant,Falls Township Trash Plant
+501,40.211525,-77.172043,http://clui.org/ludb/site/carlisle-barracks,Carlisle Barracks
+502,39.893672,-75.181117,http://clui.org/ludb/site/philadelphia-naval-complex,Philadelphia Naval Complex
+503,40.32787,-78.920693,http://clui.org/ludb/site/johnstown-flood-museum,Johnstown Flood Museum
+504,39.992197,-76.129621,http://clui.org/ludb/site/amazing-maize-maze,Amazing Maize Maze
+505,43.619736,-105.247353,http://clui.org/ludb/site/black-thunder-coal-mine,Black Thunder Coal Mine
+506,43.294701,-106.203415,http://clui.org/ludb/site/naval-petroleum-reserve-3-teapot-dome,"Naval Petroleum Reserve #3, Teapot Dome"
+507,41.667464,-106.18269,http://clui.org/ludb/site/medicine-bow-wind-project,Medicine Bow Wind Project
+508,42.36692,-107.838535,http://clui.org/ludb/site/green-mountain-mining-venture,Green Mountain Mining Venture
+509,42.860867,-106.252258,http://clui.org/ludb/site/closed-texaco-refinery,Closed Texaco Refinery
+510,42.9306,-108.466644,http://clui.org/ludb/site/riverton-uranium-tailings-sites,Riverton Uranium Tailings Sites
+511,42.834684,-107.491865,http://clui.org/ludb/site/gas-hills-east-disposal-cell,Gas Hills East Disposal Cell
+512,44.043929,-105.368843,http://clui.org/ludb/site/cordero-rojo-mine-complex,Cordero Rojo Mine Complex
+513,41.614292,-109.806976,http://clui.org/ludb/site/fmc-trona-mine,FMC Trona Mine
+514,42.838686,-105.777848,http://clui.org/ludb/site/dave-johnston-power-plant,Dave Johnston Power Plant
+515,43.26871,-105.627708,http://clui.org/ludb/site/spook-uranium-disposal-cell,Spook Uranium Disposal Cell
+516,41.153069,-104.860725,http://clui.org/ludb/site/warren-air-force-base,Warren Air Force Base
+517,42.402167,-110.289087,http://clui.org/ludb/site/shute-creek-gas-plant,Shute Creek Gas Plant
+518,43.413611,-106.298218,http://clui.org/ludb/site/salt-creek-oil-field,Salt Creek Oil Field
+519,41.131051,-105.398068,http://clui.org/ludb/site/ames-pyramid,Ames Pyramid
+520,42.504001,-107.803516,http://clui.org/ludb/site/split-rock-mill-site,Split Rock Mill Site
+521,35.414921,-97.396957,http://clui.org/ludb/site/tinker-air-force-base,Tinker Air Force Base
+522,36.339882,-97.908607,http://clui.org/ludb/site/vance-air-force-base,Vance Air Force Base
+523,36.437365,-95.448432,http://clui.org/ludb/site/totem-pole-park,Totem Pole Park
+524,35.666649,-97.503967,http://clui.org/ludb/site/largest-water-tower,Largest Water Tower
+525,34.662018,-98.402657,http://clui.org/ludb/site/fort-sill,Fort Sill
+526,34.65757,-99.278595,http://clui.org/ludb/site/altus-air-force-base,Altus Air Force Base
+527,34.822268,-95.945492,http://clui.org/ludb/site/mcalester-army-ammunition-plant,McAlester Army Ammunition Plant
+528,36.623833,-95.147552,http://clui.org/ludb/site/former-largest-mcdonalds,Former Largest McDonald&#039;s
+529,36.229141,-95.741669,http://clui.org/ludb/site/arkansas-river-museum,Arkansas River Museum
+530,42.963925,-94.445464,http://clui.org/ludb/site/grotto-redemption,Grotto of the Redemption
+531,42.030938,-93.648636,http://clui.org/ludb/site/ames-laboratory,Ames Laboratory
+532,41.771423,-91.574135,http://clui.org/ludb/site/very-long-baseline-array-antenna-0,Very Long Baseline Array Antenna
+533,41.729561,-93.251266,http://clui.org/ludb/site/trainland-usa,Trainland USA
+534,38.734102,-77.830024,http://clui.org/ludb/site/warrenton-training-center-site-b,Warrenton Training Center Site B
+535,37.843326,-75.478091,http://clui.org/ludb/site/wallops-flight-center-nasa,Wallops Flight Center (NASA)
+536,37.09072,-76.381695,http://clui.org/ludb/site/langley-research-center-nasa,Langley Research Center (NASA)
+537,38.664475,-78.483109,http://clui.org/ludb/site/luray-caverns,Luray Caverns
+538,38.5275,-77.337776,http://clui.org/ludb/site/quantico-marine-corps-base,Quantico Marine Corps Base
+539,37.256226,-77.33371,http://clui.org/ludb/site/fort-lee,Fort Lee
+540,36.866985,-82.776749,http://clui.org/ludb/site/harry-w-meador-jr-coal-museum,Harry W. Meador Jr. Coal Museum
+541,37.029964,-76.085815,http://clui.org/ludb/site/chesapeake-bay-bridge-tunnel,Chesapeake Bay Bridge-Tunnel
+542,38.713173,-77.145309,http://clui.org/ludb/site/fort-belvoir,Fort Belvoir
+543,38.877239,-77.072693,http://clui.org/ludb/site/arlington-national-cemetery,Arlington National Cemetery
+544,38.881933,-77.4518,http://clui.org/ludb/site/national-reconnaissance-office-nro-headquarters,National Reconnaissance Office (NRO) Headquarters
+545,38.747859,-77.673211,http://clui.org/ludb/site/vint-hill-farms,Vint Hill Farms
+546,38.441891,-77.973404,http://clui.org/ludb/site/mount-pony-federal-reserve-center,Mount Pony Federal Reserve Center
+547,37.010342,-76.314262,http://clui.org/ludb/site/fort-monroe,Fort Monroe
+548,37.094723,-76.481667,http://clui.org/ludb/site/jefferson-lab,Jefferson Lab
+549,36.809696,-76.029251,http://clui.org/ludb/site/oceana-naval-air-station,Oceana Naval Air Station
+550,37.024464,-76.344406,http://clui.org/ludb/site/virginia-air-and-space-center,Virginia Air and Space Center
+551,38.095394,-77.267914,http://clui.org/ludb/site/fort-a-p-hill,Fort A. P. Hill
+552,38.95174,-77.146286,http://clui.org/ludb/site/cia-headquarters,CIA Headquarters
+553,37.13076,-76.588226,http://clui.org/ludb/site/fort-eustis,Fort Eustis
+554,39.062916,-77.888947,http://clui.org/ludb/site/mount-weather-federal-bunker,Mount Weather Federal Bunker
+555,37.163872,-76.577278,http://clui.org/ludb/site/us-army-transportation-museum,U.S. Army Transportation Museum
+556,36.930717,-76.289124,http://clui.org/ludb/site/norfolk-naval-base,Norfolk Naval Base
+557,38.870987,-77.055962,http://clui.org/ludb/site/pentagon,Pentagon
+558,37.251515,-76.539516,http://clui.org/ludb/site/yorktown-naval-weapons-station,Yorktown Naval Weapons Station
+559,37.084629,-76.352715,http://clui.org/ludb/site/langley-air-force-base,Langley Air Force Base
+560,47.459673,-92.957897,http://clui.org/ludb/site/hibbing-open-pit-mine,Hibbing Open Pit Mine
+561,47.478473,-92.896442,http://clui.org/ludb/site/iron-world,Iron World
+562,47.436688,-92.93807,http://clui.org/ludb/site/greyhound-bus-museum,Greyhound Bus Museum
+563,47.819264,-92.242177,http://clui.org/ludb/site/soudan-mine,Soudan Mine
+564,47.444554,-92.940849,http://clui.org/ludb/site/north-hibbing-town-site-frisbee-park,North Hibbing Town Site Frisbee Park
+565,44.952127,-93.477033,http://clui.org/ludb/site/cargill-headquarters,Cargill Headquarters
+566,44.97002,-93.28907,http://clui.org/ludb/site/walker-art-center-garden,Walker Art Center Garden
+567,47.461286,-92.540089,http://clui.org/ludb/site/largest-hockey-stick,Largest Hockey Stick
+568,46.781761,-92.103935,http://clui.org/ludb/site/lake-superior-railroad-museum,Lake Superior Railroad Museum
+569,47.447373,-92.945516,http://clui.org/ludb/site/hull-rust-mine-and-overlook,Hull Rust Mine and Overlook
+570,47.507077,-92.526298,http://clui.org/ludb/site/mineview-sky-overlook,Mineview in the Sky Overlook
+571,44.707838,-93.091793,http://clui.org/ludb/site/umore-park,UMore Park
+572,44.854347,-93.242172,http://clui.org/ludb/site/mall-america,Mall of America
+573,44.868501,-93.414195,http://clui.org/ludb/site/atk-minnesota-headquarters,ATK Minnesota Headquarters
+574,44.930947,-93.037355,http://clui.org/ludb/site/revival-field-pigs-eye-landfill,"Revival Field, Pig&#039;s Eye Landfill"
+575,47.48862,-92.892505,http://clui.org/ludb/site/minnesota-mining-museum,Minnesota Mining Museum
+576,47.421843,-92.934076,http://clui.org/ludb/site/bob-dylans-house,Bob Dylan&#039;s House
+577,46.780006,-92.093475,http://clui.org/ludb/site/canal-park-marine-museum,Canal Park Marine Museum
+578,40.663548,-86.147293,http://clui.org/ludb/site/grissom-air-reserve-base,Grissom Air Reserve Base
+579,39.734158,-86.187111,http://clui.org/ludb/site/indianapolis-waste-energy-facility,Indianapolis Waste to Energy Facility
+580,41.531305,-86.021284,http://clui.org/ludb/site/birds-eye-view-museum,Bird&#039;s Eye View Museum
+581,38.829527,-85.413852,http://clui.org/ludb/site/jefferson-proving-ground,Jefferson Proving Ground
+582,41.661633,-87.438126,http://clui.org/ludb/site/indiana-harbor-works-steel-plant,Indiana Harbor Works Steel Plant
+583,41.616013,-87.335472,http://clui.org/ludb/site/us-steels-gary-works,US Steel&#039;s Gary Works
+584,41.632648,-87.140465,http://clui.org/ludb/site/burns-harbor-steel-plant,Burns Harbor Steel Plant
+585,38.916148,-86.529404,http://clui.org/ludb/site/abandoned-pyramid-project,Abandoned Pyramid Project
+586,41.043758,-85.058167,http://clui.org/ludb/site/fort-wayne-chemical-waste-dump,Fort Wayne Chemical Waste Dump
+587,39.849931,-87.422848,http://clui.org/ludb/site/newport-chemical-depot,Newport Chemical Depot
+588,39.974892,-81.822983,http://clui.org/ludb/site/national-road-zane-grey-museum,National Road/ Zane Grey Museum
+589,39.782829,-84.106979,http://clui.org/ludb/site/national-museum-us-air-force,National Museum of the U.S. Air Force
+590,39.278976,-84.597946,http://clui.org/ludb/site/rumpke-landfill,Rumpke Landfill
+591,38.945557,-82.111946,http://clui.org/ludb/site/cheshire,Cheshire
+592,40.249153,-83.057755,http://clui.org/ludb/site/big-ear-radio-observatory-site,Big Ear Radio Observatory Site
+593,39.990494,-83.020561,http://clui.org/ludb/site/battelle-laboratory-columbus,Battelle Laboratory Columbus
+594,40.085014,-83.123291,http://clui.org/ludb/site/dublin-corn-field,Dublin Corn Field
+595,40.313833,-83.556948,http://clui.org/ludb/site/transportation-research-center,Transportation Research Center
+596,41.065956,-81.482956,http://clui.org/ludb/site/goodyear-world-rubber-and-corporate-headquarters,Goodyear World of Rubber and Corporate Headquarters
+597,40.063835,-82.346542,http://clui.org/ludb/site/longaberger-basket-headquarters,Longaberger Basket Headquarters
+598,41.424808,-82.366732,http://clui.org/ludb/site/inland-seas-maritime-museum,Inland Seas Maritime Museum
+599,40.360442,-83.759502,http://clui.org/ludb/site/oldest-concrete-street,Oldest Concrete Street
+600,40.020155,-82.471093,http://clui.org/ludb/site/newark-air-base,Newark Air Base
+601,39.699275,-81.731234,http://clui.org/ludb/site/big-muskie-coal-scoop-bucket,Big Muskie Coal Scoop Bucket
+602,40.631916,-80.545387,http://clui.org/ludb/site/east-liverpool-hazardous-waste-incinerator,East Liverpool Hazardous Waste Incinerator
+603,39.29771,-84.688538,http://clui.org/ludb/site/fernald-uranium-plant-site,Fernald Uranium Plant Site
+604,41.143732,-81.339406,http://clui.org/ludb/site/partially-buried-woodshed,Partially Buried Woodshed
+605,39.500418,-84.728277,http://clui.org/ludb/site/star-crossed,Star Crossed
+606,41.47335,-81.666312,http://clui.org/ludb/site/ltv-steels-cleveland-works,LTV Steel&#039;s Cleveland Works
+607,39.010914,-83.00119,http://clui.org/ludb/site/portsmouth-gaseous-diffusion-plant,Portsmouth Gaseous Diffusion Plant
+608,40.784125,-82.502499,http://clui.org/ludb/site/mansfield-reformatory,Mansfield Reformatory
+609,41.202999,-81.066002,http://clui.org/ludb/site/ravenna-depot,Ravenna Depot
+610,40.370327,-83.720093,http://clui.org/ludb/site/highest-point-ohio,Highest Point in Ohio
+611,39.81625,-84.047638,http://clui.org/ludb/site/wright-patterson-air-force-base,Wright-Patterson Air Force Base
+612,41.668253,-83.466321,http://clui.org/ludb/site/envirosafe-chemical-waste-site,Envirosafe Chemical Waste Site
+613,38.914512,-83.319776,http://clui.org/ludb/site/general-electric-peebles-test-facility,General Electric Peebles Test Facility
+614,41.031958,-81.470731,http://clui.org/ludb/site/goodyear-airdock,Goodyear Airdock
+615,41.413216,-81.862999,http://clui.org/ludb/site/glenn-research-center-nasa,Glenn Research Center (NASA)
+616,39.174152,-84.500771,http://clui.org/ludb/site/proctor-and-gamble-ivorydale,Proctor and Gamble Ivorydale
+617,41.59692,-83.088997,http://clui.org/ludb/site/davis-besse-nuclear-plant,Davis Besse Nuclear Plant
+618,39.37571,-83.007545,http://clui.org/ludb/site/mound-city-chillicothe,"Mound City, Chillicothe"
+619,39.94051,-82.014313,http://clui.org/ludb/site/y-bridge,Y Bridge
+620,41.88736,-80.775325,http://clui.org/ludb/site/ashtabula-uranium-processing-plant,Ashtabula Uranium Processing Plant
+621,39.633377,-84.286316,http://clui.org/ludb/site/mound-plant,Mound Plant
+622,39.824928,-81.749458,http://clui.org/ludb/site/wilds,The Wilds
+623,39.830629,-81.574266,http://clui.org/ludb/site/shenandoa-crash-site-museum,Shenandoa Crash Site Museum
+624,40.564001,-84.171085,http://clui.org/ludb/site/neil-armstrong-air-and-space-museum,Neil Armstrong Air and Space Museum
+625,24.700717,-81.506023,http://clui.org/ludb/site/cudjoe-key-tethered-aerostat-borne-radar-system-tars-site,Cudjoe Key Tethered Aerostat-Borne Radar System (TARS) Site
+626,27.852432,-82.510071,http://clui.org/ludb/site/macdill-air-force-base,MacDill Air Force Base
+627,30.594469,-87.255829,http://clui.org/ludb/site/pensacola-chemical-complex,Pensacola Chemical Complex
+628,27.580118,-81.15871,http://clui.org/ludb/site/kissimmee-river-project,Kissimmee River Project
+629,28.48016,-80.563087,http://clui.org/ludb/site/cape-canaveral-air-force-station,Cape Canaveral Air Force Station
+630,30.353178,-87.318692,http://clui.org/ludb/site/pensacola-naval-air-station,Pensacola Naval Air Station
+631,30.482569,-86.538191,http://clui.org/ludb/site/eglin-air-force-base,Eglin Air Force Base
+632,28.31751,-81.539752,http://clui.org/ludb/site/celebration,Celebration
+633,30.232229,-81.677814,http://clui.org/ludb/site/jacksonville-naval-air-station,Jacksonville Naval Air Station
+634,30.3911,-81.416336,http://clui.org/ludb/site/mayport-naval-station,Mayport Naval Station
+635,25.500589,-80.444405,http://clui.org/ludb/site/coral-castle,Coral Castle
+636,25.496084,-80.389366,http://clui.org/ludb/site/homestead-air-force-reserve-base,Homestead Air Force Reserve Base
+637,30.711437,-87.019615,http://clui.org/ludb/site/whiting-field-naval-air-station,Whiting Field Naval Air Station
+638,30.42392,-86.688438,http://clui.org/ludb/site/hurlburt-field,Hurlburt Field
+639,30.466209,-86.560829,http://clui.org/ludb/site/air-force-armament-museum,Air Force Armament Museum
+640,29.499971,-83.270847,http://clui.org/ludb/site/tethered-aerostat-borne-radar-system-tars-site-0,Horseshoe Cove Tethered Aerostat-Borne Radar System (TARS) Site
+641,26.904202,-80.3039,http://clui.org/ludb/site/united-technology-west-palm-beach,United Technology West Palm Beach
+642,27.849758,-82.381622,http://clui.org/ludb/site/gibtown,Gibtown
+643,24.576066,-81.689304,http://clui.org/ludb/site/key-west-naval-air-station,Key West Naval Air Station
+644,30.06761,-85.580256,http://clui.org/ludb/site/tyndall-air-force-base,Tyndall Air Force Base
+645,28.584547,-80.650806,http://clui.org/ludb/site/kennedy-space-center-nasa,Kennedy Space Center (NASA)
+646,27.87405,-82.748367,http://clui.org/ludb/site/pinellas-plant,Pinellas Plant
+647,28.02684,-81.845527,http://clui.org/ludb/site/ridge-generating-station,Ridge Generating Station
+648,30.220285,-81.879219,http://clui.org/ludb/site/cecil-field,Cecil Field
+649,27.373177,-81.977234,http://clui.org/ludb/site/solomons-castle,Solomon&#039;s Castle
+650,28.238768,-80.607612,http://clui.org/ludb/site/patrick-air-force-base,Patrick Air Force Base
+651,30.232384,-85.893143,http://clui.org/ludb/site/museum-man-sea,Museum of Man in the Sea
+652,42.186097,-72.637954,http://clui.org/ludb/site/iso-new-england-control-center,ISO New England Control Center
+653,42.675424,-73.09151,http://clui.org/ludb/site/hoosac-tunnel-west-portal,Hoosac Tunnel West Portal
+654,42.360181,-71.096488,http://clui.org/ludb/site/mit-research-reactor,MIT Research Reactor
+655,42.29074,-73.249841,http://clui.org/ludb/site/lee-marble-quarry,Lee Marble Quarry
+656,42.712572,-72.449464,http://clui.org/ludb/site/evacuation-siren,Evacuation Siren
+657,42.364174,-71.091408,http://clui.org/ludb/site/draper-lab,Draper Lab
+658,42.263606,-71.411852,http://clui.org/ludb/site/old-general-motors-assembly-plant,Old General Motors Assembly Plant
+659,42.614555,-71.324894,http://clui.org/ludb/site/wang-lab-headquarters-site,Wang Lab Headquarters Site
+660,42.430732,-71.454831,http://clui.org/ludb/site/digital-corporation-mill-site,Digital Corporation Mill Site
+661,42.033528,-70.054257,http://clui.org/ludb/site/truro-station,Truro Station
+662,42.359177,-72.299995,http://clui.org/ludb/site/quabbin-reservoir,Quabbin Reservoir
+663,42.477549,-71.295916,http://clui.org/ludb/site/raytheon-bedford-plant,Raytheon Bedford Plant
+664,42.290073,-71.362971,http://clui.org/ludb/site/natick-army-lab,Natick Army Lab
+665,41.913973,-69.971401,http://clui.org/ludb/site/marconi-transmitter-site,Marconi Transmitter Site
+666,42.317182,-70.969014,http://clui.org/ludb/site/long-island-nike-missile-site,Long Island Nike Missile Site
+667,41.524693,-70.671173,http://clui.org/ludb/site/woods-hole-oceanographic-institute,Woods Hole Oceanographic Institute
+668,42.612067,-72.466381,http://clui.org/ludb/site/northfield-pumped-storage-project,Northfield Pumped Storage Project
+669,42.623003,-71.487973,http://clui.org/ludb/site/haystack-observatory,Haystack Observatory
+670,42.5055,-71.557571,http://clui.org/ludb/site/oak-ridge-observatory,Oak Ridge Observatory
+671,42.258446,-71.812202,http://clui.org/ludb/site/american-sanitary-plumbing-museum,American Sanitary Plumbing Museum
+672,42.459213,-71.277283,http://clui.org/ludb/site/hanscom-air-force-base,Hanscom Air Force Base
+673,42.701859,-73.113907,http://clui.org/ludb/site/mass-moca-sprague-electric-site,Mass MoCA Sprague Electric Site
+674,42.53606,-71.617668,http://clui.org/ludb/site/fort-devens,Fort Devens
+675,41.670414,-69.939394,http://clui.org/ludb/site/chatham-breech,Chatham Breech
+676,41.711464,-71.191878,http://clui.org/ludb/site/brayton-point-power-plant,Brayton Point Power Plant
+677,42.334217,-71.299574,http://clui.org/ludb/site/metro-west-water-tunnel,Metro West Water Tunnel
+678,42.226881,-70.852284,http://clui.org/ludb/site/hingham-ammunition-depot-site,Hingham Ammunition Depot Site
+679,42.410855,-71.448351,http://clui.org/ludb/site/fema-new-england-headquarters,FEMA New England Headquarters
+680,42.469984,-73.176965,http://clui.org/ludb/site/crane-company,Crane Company
+681,42.764339,-71.124924,http://clui.org/ludb/site/haverhill-waste-energy-facility,Haverhill Waste to Energy Facility
+682,41.657877,-70.522184,http://clui.org/ludb/site/otis-air-base,Otis Air Base
+683,42.458618,-71.263573,http://clui.org/ludb/site/lincoln-laboratory,Lincoln Laboratory
+684,42.238922,-70.972412,http://clui.org/ludb/site/fore-river-shipyard,Fore River Shipyard
+685,42.19389,-72.534721,http://clui.org/ludb/site/westover-air-reserve-base,Westover Air Reserve Base
+686,42.583919,-71.26462,http://clui.org/ludb/site/iron-horse-park,Iron Horse Park
+687,42.319122,-71.2322,http://clui.org/ludb/site/former-egg-headquarters,Former EG&amp;G Headquarters
+688,41.621507,-70.911427,http://clui.org/ludb/site/new-bedford-hurricane-barrier,New Bedford Hurricane Barrier
+689,42.452216,-70.97213,http://clui.org/ludb/site/river-works-plant,River Works Plant
+690,41.541157,-70.93679,http://clui.org/ludb/site/round-hill-lab-site,Round Hill Lab Site
+691,42.637501,-73.166664,http://clui.org/ludb/site/mount-greylock-summit,Mount Greylock Summit
+692,42.618549,-71.491425,http://clui.org/ludb/site/millstone-hill-antennas,Millstone Hill Antennas
+693,42.493442,-71.13155,http://clui.org/ludb/site/woburn-superfund-site,Woburn Superfund Site
+694,41.752506,-70.538728,http://clui.org/ludb/site/pave-paws-antenna,Pave Paws Antenna
+695,42.109097,-72.577866,http://clui.org/ludb/site/springfield-armory-museum,Springfield Armory Museum
+696,42.538853,-71.153668,http://clui.org/ludb/site/textron-defense-systems-headquarters,Textron Defense Systems Headquarters
+697,42.324508,-70.986142,http://clui.org/ludb/site/spectacle-island,Spectacle Island
+698,42.244103,-71.034379,http://clui.org/ludb/site/quincy-quarries,Quincy Quarries
+699,42.306269,-72.535163,http://clui.org/ludb/site/amherst-college-strategic-air-command-bunker,Amherst College Strategic Air Command Bunker
+700,42.312879,-71.586056,http://clui.org/ludb/site/hultman-aqueduct,Hultman Aqueduct
+701,42.352509,-71.029022,http://clui.org/ludb/site/ted-williams-tunnel,Ted Williams Tunnel
+702,42.340552,-71.019144,http://clui.org/ludb/site/massport-container-yard,Massport Container Yard
+703,41.944138,-70.578491,http://clui.org/ludb/site/pilgrim-nuclear-power-plant,Pilgrim Nuclear Power Plant
+704,42.350712,-70.957797,http://clui.org/ludb/site/deer-island-sewage-treatment-plant,Deer Island Sewage Treatment Plant
+705,42.567929,-71.21502,http://clui.org/ludb/site/middlesex-canals-shawsheen-aqueduct,Middlesex Canal&#039;s Shawsheen Aqueduct
+706,42.457214,-73.222512,http://clui.org/ludb/site/ge-plastics-concept-house-site,GE Plastics Concept House Site
+707,42.531706,-72.189944,http://clui.org/ludb/site/fisher-museum-forestry,Fisher Museum of Forestry
+708,42.503536,-71.238129,http://clui.org/ludb/site/mitre-corporation-bedford-headquarters,Mitre Corporation Bedford Headquarters
+709,42.56996,-71.52473,http://clui.org/ludb/site/sandy-pond-intertie,Sandy Pond Intertie
+710,41.95805,-70.662117,http://clui.org/ludb/site/plymouth-rock,Plymouth Rock
+711,41.764652,-70.569992,http://clui.org/ludb/site/cape-cod-canal,Cape Cod Canal
+712,42.361641,-71.090256,http://clui.org/ludb/site/building-20-site,Building 20 Site
+713,42.228163,-71.78809,http://clui.org/ludb/site/blackstone-canal,Blackstone Canal
+714,42.301453,-71.04514,http://clui.org/ludb/site/boston-gas-tank,Boston Gas Tank
+715,31.558735,-110.344131,http://clui.org/ludb/site/fort-huachuca-main-post,Fort Huachuca Main Post
+716,33.989868,-114.398346,http://clui.org/ludb/site/poston-relocation-camp,Poston Relocation Camp
+717,31.86677,-111.130653,http://clui.org/ludb/site/sierrita-copper-mine,Sierrita Copper Mine
+718,34.342506,-112.100578,http://clui.org/ludb/site/arcosanti,Arcosanti
+719,32.108315,-110.942429,http://clui.org/ludb/site/tucson-missile-plant,Tucson Missile Plant
+720,31.688837,-110.885414,http://clui.org/ludb/site/whipple-observatory,Whipple Observatory
+721,34.28862,-114.103961,http://clui.org/ludb/site/central-arizona-project-canal-origin,Central Arizona Project Canal Origin
+722,34.867062,-114.145721,http://clui.org/ludb/site/geodesic-sphere-house,Geodesic Sphere House
+723,33.447594,-111.9533,http://clui.org/ludb/site/hall-flame,Hall of Flame
+724,36.057686,-112.137665,http://clui.org/ludb/site/grand-canyon-village,Grand Canyon Village
+725,32.155666,-110.835182,http://clui.org/ludb/site/davis-monthan-air-force-base,Davis-Monthan Air Force Base
+726,33.091839,-114.396172,http://clui.org/ludb/site/yuma-proving-grounds,Yuma Proving Grounds
+727,35.259216,-113.945221,http://clui.org/ludb/site/kingman-airport,Kingman Airport
+728,36.557522,-110.520569,http://clui.org/ludb/site/black-mesa-coal-silo,Black Mesa Coal Silo
+729,33.389458,-112.862381,http://clui.org/ludb/site/palo-verde-nuclear-power-complex,Palo Verde Nuclear Power Complex
+730,33.308273,-111.658775,http://clui.org/ludb/site/williams-gateway-airport,Williams Gateway Airport
+731,32.649277,-114.603279,http://clui.org/ludb/site/yuma-marine-corps-air-station,Yuma Marine Corps Air Station
+732,31.958944,-111.597397,http://clui.org/ludb/site/kitt-peak-observatory,Kitt Peak Observatory
+733,32.372711,-112.846413,http://clui.org/ludb/site/cornelia-tailings,Cornelia Tailings
+734,32.080647,-110.050262,http://clui.org/ludb/site/thing,The Thing
+735,33.00555,-110.775917,http://clui.org/ludb/site/hayden-smelter,Hayden Smelter
+736,31.485855,-110.29583,http://clui.org/ludb/site/tethered-aerostat-radar-system-tars-fort-huachuca-site,Tethered Aerostat Radar System (TARS) Fort Huachuca Site
+737,31.903324,-110.999001,http://clui.org/ludb/site/titan-missile-museum,Titan Missile Museum
+738,33.17585,-110.99015,http://clui.org/ludb/site/ray-mine,Ray Mine
+739,32.726685,-114.704048,http://clui.org/ludb/site/yuma-desalinization-plant,Yuma Desalinization Plant
+740,34.296577,-114.139305,http://clui.org/ludb/site/parker-dam,Parker Dam
+741,35.426266,-111.258713,http://clui.org/ludb/site/roden-crater,Roden Crater
+742,31.431112,-109.900101,http://clui.org/ludb/site/lavender-pit,Lavender Pit
+743,31.984783,-111.068001,http://clui.org/ludb/site/asarco-mission-mine,Asarco Mission Mine
+744,33.602074,-111.712021,http://clui.org/ludb/site/fountain-hills-fountain,Fountain Hills Fountain
+745,32.615376,-110.620476,http://clui.org/ludb/site/san-manuel-smelter-site,San Manuel Smelter Site
+746,34.471706,-114.347359,http://clui.org/ludb/site/london-bridge,London Bridge
+747,33.402386,-110.892563,http://clui.org/ludb/site/miami-mine,Miami Mine
+748,35.142338,-114.089668,http://clui.org/ludb/site/kingman-scrap-steel-mill,Kingman Scrap Steel Mill
+749,34.577117,-113.185213,http://clui.org/ludb/site/bagdad-copper-mine,Bagdad Copper Mine
+750,33.536816,-112.372025,http://clui.org/ludb/site/luke-air-force-base,Luke Air Force Base
+751,36.016258,-114.737129,http://clui.org/ludb/site/hoover-dam,Hoover Dam
+752,35.202591,-111.665413,http://clui.org/ludb/site/lowell-observatory,Lowell Observatory
+753,36.144676,-111.133232,http://clui.org/ludb/site/tuba-city-uranium-disposal-cell,Tuba City Uranium Disposal Cell
+754,35.027073,-111.022598,http://clui.org/ludb/site/meteor-crater,Meteor Crater
+755,36.937622,-111.484161,http://clui.org/ludb/site/glen-canyon-dam,Glen Canyon Dam
+756,36.92667,-109.862228,http://clui.org/ludb/site/monument-valley-uranium-tailings-site,Monument Valley Uranium Tailings Site
+757,32.139645,-110.868721,http://clui.org/ludb/site/pima-air-and-space-museum,Pima Air and Space Museum
+758,36.441345,-110.393715,http://clui.org/ludb/site/black-mesa-coal-mine-and-pipeline,Black Mesa Coal Mine and Pipeline
+759,34.483921,-114.385185,http://clui.org/ludb/site/lake-havasu,Lake Havasu
+760,33.078308,-109.35482,http://clui.org/ludb/site/morenci-copper-mine,Morenci Copper Mine
+761,33.46547,-111.944278,http://clui.org/ludb/site/tree-life,Tree of Life
+762,32.578712,-110.851204,http://clui.org/ludb/site/biosphere-2,Biosphere 2
+763,47.998882,-106.428337,http://clui.org/ludb/site/fort-peck-dam,Fort Peck Dam
+764,45.074552,-110.777872,http://clui.org/ludb/site/royal-teton-ranch-church-universal-and-triumphant,Royal Teton Ranch of the Church Universal and Triumphant
+765,46.871605,-113.892601,http://clui.org/ludb/site/milltown-reservoir,Milltown Reservoir
+766,47.50938,-111.190689,http://clui.org/ludb/site/malmstrom-air-force-base,Malmstrom Air Force Base
+767,46.000473,-112.446274,http://clui.org/ludb/site/our-lady-rockies,Our Lady of the Rockies
+768,46.272833,-112.234172,http://clui.org/ludb/site/earth-angel-radon-mine,Earth Angel Radon Mine
+769,46.868752,-114.007568,http://clui.org/ludb/site/three-downward-blows,Three Downward Blows
+770,46.255521,-112.147601,http://clui.org/ludb/site/lone-tree-health-mine,Lone Tree Health Mine
+771,46.584236,-111.91987,http://clui.org/ludb/site/asarco-lead-smelter,Asarco Lead Smelter
+772,46.017231,-112.510124,http://clui.org/ludb/site/berkeley-pit,Berkeley Pit
+773,46.110121,-112.913822,http://clui.org/ludb/site/anaconda-mine-and-smelting-works,Anaconda Mine and Smelting Works
+774,46.270051,-112.249275,http://clui.org/ludb/site/merry-widow-radon-health-mine,Merry Widow Radon Health Mine
+775,46.25564,-112.147472,http://clui.org/ludb/site/free-enterprise-health-mine,Free Enterprise Health Mine
+776,46.252605,-112.192917,http://clui.org/ludb/site/sunshine-radon-health-mine,Sunshine Radon Health Mine
+777,42.293175,-83.711586,http://clui.org/ludb/site/wave-field,Wave Field
+778,46.456722,-87.652443,http://clui.org/ludb/site/tilden-iron-mine,Tilden Iron Mine
+779,45.748241,-85.518005,http://clui.org/ludb/site/old-mormon-print-shop-museum,Old Mormon Print Shop Museum
+780,46.344529,-87.390082,http://clui.org/ludb/site/ki-sawyer-air-force-base,K.I. Sawyer Air Force Base
+781,42.979128,-85.666108,http://clui.org/ludb/site/grand-rapids-project,Grand Rapids Project
+782,46.438805,-87.604294,http://clui.org/ludb/site/empire-iron-mine,Empire Iron Mine
+783,42.367752,-83.054626,http://clui.org/ludb/site/detroit-waste-energy-facility,Detroit Waste to Energy Facility
+784,42.32251,-86.311684,http://clui.org/ludb/site/palisades-nuclear-power-plant,Palisades Nuclear Power Plant
+785,41.892811,-83.352837,http://clui.org/ludb/site/monroe-power-plant,Monroe Power Plant
+786,44.461208,-83.384453,http://clui.org/ludb/site/wurtsmith-air-force-base,Wurtsmith Air Force Base
+787,42.498381,-83.037297,http://clui.org/ludb/site/detroit-arsenal,Detroit Arsenal
+788,39.858364,-104.674126,http://clui.org/ludb/site/denver-international-airport,Denver International Airport
+789,37.069745,-106.011286,http://clui.org/ludb/site/cumbres-and-toltec-railroad-eastern-terminus,Cumbres and Toltec Railroad Eastern Terminus
+790,37.421989,-106.597939,http://clui.org/ludb/site/summitville-mine,Summitville Mine
+791,39.026313,-104.82841,http://clui.org/ludb/site/western-museum-mining-and-industry,Western Museum of Mining and Industry
+792,37.220768,-104.491196,http://clui.org/ludb/site/drop-city-site,Drop City Site
+793,39.8913,-105.203445,http://clui.org/ludb/site/rocky-flats,Rocky Flats
+794,39.499001,-105.105942,http://clui.org/ludb/site/lockheed-martin-astronautics-denver,"Lockheed Martin Astronautics, Denver"
+795,39.678852,-105.934555,http://clui.org/ludb/site/eisenhower-tunnel-west-portal,Eisenhower Tunnel West Portal
+796,39.741257,-105.173813,http://clui.org/ludb/site/national-renewable-energy-laboratory-nrel,National Renewable Energy Laboratory (NREL)
+797,39.529068,-107.771675,http://clui.org/ludb/site/old-rifle-uranium-mill-site,Old Rifle Uranium Mill Site
+798,39.720325,-104.887589,http://clui.org/ludb/site/lowry-air-force-base,Lowry Air Force Base
+799,39.043003,-108.572342,http://clui.org/ludb/site/grand-junction-project-site,Grand Junction Project Site
+800,39.22652,-106.226313,http://clui.org/ludb/site/leadville-mines,Leadville Mines
+801,38.438289,-104.286518,http://clui.org/ludb/site/transportation-technology-center,Transportation Technology Center
+802,38.461258,-105.325563,http://clui.org/ludb/site/royal-gorge-bridge,Royal Gorge Bridge
+803,38.360451,-105.098366,http://clui.org/ludb/site/canon-city-correctional-complex,Canon City Correctional Complex
+804,38.742336,-104.783646,http://clui.org/ludb/site/fort-carson,Fort Carson
+805,38.23872,-108.610664,http://clui.org/ludb/site/naturita-uranium-mill-site,Naturita Uranium Mill Site
+806,39.771786,-105.192734,http://clui.org/ludb/site/colorado-railroad-museum,Colorado Railroad Museum
+807,38.528477,-106.943039,http://clui.org/ludb/site/gunnison-uranium-mill-site,Gunnison Uranium Mill Site
+808,38.82597,-104.701248,http://clui.org/ludb/site/peterson-air-force-base,Peterson Air Force Base
+809,39.742584,-105.506477,http://clui.org/ludb/site/argo-gold-mill,Argo Gold Mill
+810,38.061106,-105.094276,http://clui.org/ludb/site/bishops-castle,Bishop&#039;s Castle
+811,39.902298,-105.646324,http://clui.org/ludb/site/moffat-tunnel-east-portal,Moffat Tunnel East Portal
+812,39.405354,-107.948417,http://clui.org/ludb/site/rulison-nuclear-test-site,Rulison Nuclear Test Site
+813,39.620533,-107.763562,http://clui.org/ludb/site/valley-curtain-site,Valley Curtain Site
+814,38.042765,-108.904724,http://clui.org/ludb/site/slick-rock-mill-site,Slick Rock Mill Site
+815,38.705387,-104.839882,http://clui.org/ludb/site/john-may-museum-center,John May Museum Center
+816,39.586864,-105.641273,http://clui.org/ludb/site/meyer-womble-observatory,Meyer-Womble Observatory
+817,38.302467,-104.324455,http://clui.org/ludb/site/pueblo-depot,Pueblo Depot
+818,38.73283,-104.847023,http://clui.org/ludb/site/cheyenne-mountain-air-force-station-norad,Cheyenne Mountain Air Force Station (NORAD)
+819,39.477174,-108.088732,http://clui.org/ludb/site/unocal-oil-shale-plant,Unocal Oil Shale Plant
+820,37.824074,-107.585037,http://clui.org/ludb/site/old-hundred-gold-mine,Old Hundred Gold Mine
+821,39.793497,-108.367008,http://clui.org/ludb/site/rio-blanco-nuclear-test-site,Rio Blanco Nuclear Test Site
+822,40.993959,-105.507224,http://clui.org/ludb/site/kelsey-lake-diamond-mine,Kelsey Lake Diamond Mine
+823,39.201708,-106.831244,http://clui.org/ludb/site/earth-mound,Earth Mound
+824,39.055317,-108.550865,http://clui.org/ludb/site/grand-junction-climax-uranium-mill-site,Grand Junction Climax Uranium Mill Site
+825,38.368378,-108.743212,http://clui.org/ludb/site/umetco-uravan-uranium-site,Umetco Uravan Uranium Site
+826,39.851413,-104.84166,http://clui.org/ludb/site/rocky-mountain-arsenal,Rocky Mountain Arsenal
+827,37.265377,-107.884369,http://clui.org/ludb/site/durango-uranium-mill-site,Durango Uranium Mill Site
+828,37.33223,-108.339052,http://clui.org/ludb/site/hogan-souvenir-shop,The Hogan Souvenir Shop
+829,40.543285,-108.002731,http://clui.org/ludb/site/maybell-uranium-disposal-cells,Maybell Uranium Disposal Cells
+830,38.802047,-104.526458,http://clui.org/ludb/site/schriever-air-force-base,Schriever Air Force Base
+831,47.754849,-117.376385,http://clui.org/ludb/site/mead-reduction-works,Mead Reduction Works
+832,48.351971,-122.65583,http://clui.org/ludb/site/whidbey-island-naval-air-station,Whidbey Island Naval Air Station
+833,47.985126,-122.218048,http://clui.org/ludb/site/everett-naval-station,Everett Naval Station
+834,48.075096,-122.749901,http://clui.org/ludb/site/indian-island-depot,Indian Island Depot
+835,46.127748,-122.980442,http://clui.org/ludb/site/longview-port,Longview Port
+836,47.095299,-122.627831,http://clui.org/ludb/site/dupont-explosives-plant-site,DuPont Explosives Plant Site
+837,47.661427,-117.418915,http://clui.org/ludb/site/spokane-worlds-fair-site,Spokane World&#039;s Fair Site
+838,47.591117,-122.342548,http://clui.org/ludb/site/port-seattle,Port of Seattle
+839,47.391889,-119.48481,http://clui.org/ludb/site/soap-lake,Soap Lake
+840,48.466549,-122.559868,http://clui.org/ludb/site/anacortes-refineries,Anacortes Refineries
+841,46.455101,-119.407661,http://clui.org/ludb/site/ligo-project-site,Ligo Project Site
+842,47.639629,-122.127197,http://clui.org/ludb/site/microsoft-corporation-headquarters,Microsoft Corporation Headquarters
+843,46.435253,-119.360107,http://clui.org/ludb/site/fast-flux-test-facility,Fast Flux Test Facility
+844,47.936917,-119.015799,http://clui.org/ludb/site/gehrke-windmill-garden,Gehrke Windmill Garden
+845,47.135616,-122.496529,http://clui.org/ludb/site/mcchord-air-force-base,McChord Air Force Base
+846,47.382801,-122.224716,http://clui.org/ludb/site/mill-creek-canyon-park,Mill Creek Canyon Park
+847,46.471268,-119.334183,http://clui.org/ludb/site/wppss-2-nuclear-power-plant,WPPSS 2 Nuclear Power Plant
+848,48.731625,-121.067276,http://clui.org/ludb/site/diablo-dam,Diablo Dam
+849,46.911547,-124.117463,http://clui.org/ludb/site/grays-harbor-coast-guard-tower,Gray&#039;s Harbor Coast Guard Tower
+850,47.09442,-122.638493,http://clui.org/ludb/site/northwest-landing,Northwest Landing
+851,47.407501,-122.283607,http://clui.org/ludb/site/untitled-johnson-gravel-pit-number-30,"Untitled, Johnson Gravel Pit Number 30"
+852,46.347069,-119.278481,http://clui.org/ludb/site/pacific-northwest-national-laboratory-pnnl-richland,Pacific Northwest National Laboratory (PNNL) Richland
+853,47.61087,-122.738571,http://clui.org/ludb/site/silverdale-naval-reservation,Silverdale Naval Reservation
+854,46.387146,-120.234826,http://clui.org/ludb/site/teapot-dome-service-station,Teapot Dome Service Station
+855,48.886902,-122.735395,http://clui.org/ludb/site/cherry-point-refinery,Cherry Point Refinery
+856,47.296972,-122.298753,http://clui.org/ludb/site/weyerhaeuser-company-headquarters,Weyerhaeuser Company Headquarters
+857,46.5,-119.5,http://clui.org/ludb/site/hanford-nuclear-site,Hanford Nuclear Site
+858,47.515665,-122.29723,http://clui.org/ludb/site/boeing-military-aircraft-and-missile-systems-group-seattle,"Boeing Military Aircraft and Missile Systems Group, Seattle"
+859,48.385905,-124.726635,http://clui.org/ludb/site/northwesternmost-point-continental-48-united-states,Northwesternmost Point on the Continental 48 United States
+860,47.540661,-122.323226,http://clui.org/ludb/site/telephone-museum,Telephone Museum
+861,47.956593,-118.983307,http://clui.org/ludb/site/grand-coulee-dam,Grand Coulee Dam
+862,46.355278,-119.326668,http://clui.org/ludb/site/volpentest-hammer-training-site,Volpentest HAMMER Training Site
+863,47.565804,-122.626907,http://clui.org/ludb/site/bremerton-naval-museum,Bremerton Naval Museum
+864,47.269009,-122.550941,http://clui.org/ludb/site/tacoma-narrows-bridge,Tacoma Narrows Bridge
+865,46.275676,-122.217429,http://clui.org/ludb/site/johnson-ridge-observatory,Johnson Ridge Observatory
+866,48.094835,-123.557353,http://clui.org/ludb/site/elwha-dam,Elwha Dam
+867,47.700434,-122.615919,http://clui.org/ludb/site/naval-undersea-warfare-center-keyport,"Naval Undersea Warfare Center, Keyport"
+868,46.227443,-119.175761,http://clui.org/ludb/site/kennewick-man-archaeological-site,Kennewick Man Archaeological Site
+869,47.907452,-122.282768,http://clui.org/ludb/site/paine-field,Paine Field
+870,47.356815,-120.126958,http://clui.org/ludb/site/alcoa-wenatchee-plant,Alcoa Wenatchee Plant
+871,48.731837,-122.485446,http://clui.org/ludb/site/western-washington-university-outdoor-sculpture-collection,Western Washington University Outdoor Sculpture Collection
+872,47.727661,-122.715508,http://clui.org/ludb/site/bangor-naval-submarine-base,Bangor Naval Submarine Base
+873,46.13176,-122.977524,http://clui.org/ludb/site/weyerhaeuser-longview,Weyerhaeuser Longview
+874,47.625904,-117.644173,http://clui.org/ludb/site/fairchild-air-force-base,Fairchild Air Force Base
+875,49.002067,-122.756534,http://clui.org/ludb/site/peace-arch,Peace Arch
+876,47.662252,-122.42943,http://clui.org/ludb/site/west-point-treatment-plant,West Point Treatment Plant
+877,47.595731,-120.661093,http://clui.org/ludb/site/leavenworth-town,"Leavenworth, Town of"
+878,46.966783,-123.847761,http://clui.org/ludb/site/weyerhaeuser-aberdeen,Weyerhaeuser Aberdeen
+879,45.677495,-120.864721,http://clui.org/ludb/site/maryhill-museum,Maryhill Museum
+880,48.147762,-119.695358,http://clui.org/ludb/site/us-electrodynamics-comsat-earth-station,U.S. Electrodynamics Comsat Earth Station
+881,48.789227,-122.654629,http://clui.org/ludb/site/lummi-flats,Lummi Flats
+882,47.681657,-122.246761,http://clui.org/ludb/site/sand-point-naval-station-site,Sand Point Naval Station Site
+883,47.541889,-121.836838,http://clui.org/ludb/site/snoqualmie-falls,Snoqualmie Falls
+884,47.580696,-122.335663,http://clui.org/ludb/site/starbucks-headquarters,Starbucks Headquarters
+885,47.606489,-119.364642,http://clui.org/ludb/site/dry-falls-interpretive-center,Dry Falls Interpretive Center
+886,45.732067,-120.699577,http://clui.org/ludb/site/goldendale-aluminum-plant,Goldendale Aluminum Plant
+887,47.557678,-122.643791,http://clui.org/ludb/site/puget-sound-naval-shipyard,Puget Sound Naval Shipyard
+888,47.419727,-122.122135,http://clui.org/ludb/site/lake-youngs,Lake Youngs
+889,47.518669,-122.297928,http://clui.org/ludb/site/museum-flight-0,Museum of Flight
+890,48.833935,-122.69162,http://clui.org/ludb/site/ferndale-refinery,Ferndale Refinery
+891,46.682243,-120.356804,http://clui.org/ludb/site/yakima-research-station,Yakima Research Station
+892,47.123763,-122.643986,http://clui.org/ludb/site/pioneer-aggregates-plant,Pioneer Aggregates Plant
+893,47.640526,-122.260147,http://clui.org/ludb/site/evergreen-point-floating-bridge-0,Evergreen Point Floating Bridge
+894,47.091778,-122.584503,http://clui.org/ludb/site/fort-lewis,Fort Lewis
+895,46.27778,-124.053712,http://clui.org/ludb/site/cape-disappointment-interpretive-center,Cape Disappointment Interpretive Center
+896,47.264786,-122.410355,http://clui.org/ludb/site/port-tacoma,Port of Tacoma
+897,46.960106,-123.470535,http://clui.org/ludb/site/satsop-nuclear-plants,Satsop Nuclear Plants
+898,46.2517,-123.921238,http://clui.org/ludb/site/fort-columbia-coastal-battery,Fort Columbia Coastal Battery
+899,45.82053,-121.951976,http://clui.org/ludb/site/canopy-crane,Canopy Crane
+900,46.896976,-123.050735,http://clui.org/ludb/site/mima-mounds,Mima Mounds
+901,48.111565,-122.589569,http://clui.org/ludb/site/lake-hancock-target-range,Lake Hancock Target Range
+902,46.709972,-120.085373,http://clui.org/ludb/site/yakima-firing-range,Yakima Firing Range
+903,47.188313,-119.322273,http://clui.org/ludb/site/grant-county-international-airport,Grant County International Airport
+904,45.806637,-120.176521,http://clui.org/ludb/site/roosevelt-regional-landfill,Roosevelt Regional Landfill
+905,47.675213,-124.486771,http://clui.org/ludb/site/destruction-island,Destruction Island
+906,46.755696,-122.858369,http://clui.org/ludb/site/centralia-power-plant-and-mine,Centralia Power Plant and Mine
+907,47.994976,-119.63974,http://clui.org/ludb/site/chief-joseph-dam,Chief Joseph Dam
+908,47.70034,-122.624894,http://clui.org/ludb/site/naval-undersea-museum,Naval Undersea Museum
+909,45.929722,-119.296112,http://clui.org/ludb/site/mcnary-dam-and-fish-viewing-room,McNary Dam and Fish Viewing Room
+910,46.470263,-119.315557,http://clui.org/ludb/site/wppss-1-and-4,WPPSS 1 and 4
+911,45.612328,-122.638474,http://clui.org/ludb/site/kaiser-vancouver-shipyard-site,Kaiser Vancouver Shipyard Site
+912,47.219803,-122.172005,http://clui.org/ludb/site/lake-tapps,Lake Tapps
+913,48.131096,-119.682848,http://clui.org/ludb/site/very-long-baseline-array-antenna-1,Very Long Baseline Array Antenna
+914,48.203712,-121.916807,http://clui.org/ludb/site/jim-creek-naval-radio-station,Jim Creek Naval Radio Station
+915,45.58498,-122.405807,http://clui.org/ludb/site/fort-james-plant,Fort James Plant
+916,46.140773,-122.999196,http://clui.org/ludb/site/longview-aluminum-plant,Longview Aluminum Plant
+917,47.900424,-117.836266,http://clui.org/ludb/site/ford-radioactive-waste-site,Ford Radioactive Waste Site
+918,47.583241,-122.354607,http://clui.org/ludb/site/todd-shipyard,Todd Shipyard
+919,46.720364,-122.967535,http://clui.org/ludb/site/richarts-ruins,Richart&#039;s Ruins
+920,48.846474,-122.702354,http://clui.org/ludb/site/intalco-smelter,Intalco Smelter
+921,47.127362,-119.199643,http://clui.org/ludb/site/pacific-northwest-sugar-plant,Pacific Northwest Sugar Plant
+922,46.139345,-122.938798,http://clui.org/ludb/site/longview-town,"Longview, Town of"
+923,45.694416,-120.806084,http://clui.org/ludb/site/stonehenge-replica,Stonehenge Replica
+924,47.299898,-122.506399,http://clui.org/ludb/site/asarco-ruston-plant-site,Asarco Ruston Plant Site
+925,47.924914,-122.27191,http://clui.org/ludb/site/boeing-main-assembly-plant,Boeing Main Assembly Plant
+926,47.197065,-122.658405,http://clui.org/ludb/site/mcneil-island-corrections-center,McNeil Island Corrections Center
+927,48.537494,-121.740296,http://clui.org/ludb/site/concrete-town,"Concrete, Town of"
+928,40.180447,-113.04039,http://clui.org/ludb/site/dugway-proving-ground,Dugway Proving Ground
+929,38.993832,-110.141098,http://clui.org/ludb/site/john-wesley-powell-river-history-museum,John Wesley Powell River History Museum
+930,40.767653,-112.158112,http://clui.org/ludb/site/saltair-pavilion-original-site,Saltair Pavilion Original Site
+931,40.623367,-111.496872,http://clui.org/ludb/site/park-city-silver-mine-tour,Park City Silver Mine Tour
+932,40.304015,-112.354946,http://clui.org/ludb/site/tooele-army-depot-south-area,"Tooele Army Depot, South Area"
+933,41.303501,-113.863831,http://clui.org/ludb/site/sun-tunnels,Sun Tunnels
+934,40.915489,-112.734444,http://clui.org/ludb/site/magcorp-magnesium-chloride-plant,MagCorp Magnesium Chloride Plant
+935,41.222946,-112.650093,http://clui.org/ludb/site/lucin-cut-offsalt-lake-causeway,Lucin Cut-off/Salt Lake Causeway
+936,39.467606,-112.436913,http://clui.org/ludb/site/brush-wellman-beryllium-plant,Brush Wellman Beryllium Plant
+937,40.228104,-112.727615,http://clui.org/ludb/site/lincoln-memorial-highway-bridge,Lincoln Memorial Highway Bridge
+938,40.695347,-113.115921,http://clui.org/ludb/site/clive-radioactive-waste-site,Clive Radioactive Waste Site
+939,40.762276,-113.895782,http://clui.org/ludb/site/bonneville-salt-flats-raceway,Bonneville Salt Flats Raceway
+940,40.536114,-112.388931,http://clui.org/ludb/site/tooele-depot-north-area,"Tooele Depot, North Area"
+941,41.251354,-112.249954,http://clui.org/ludb/site/little-mountain-test-annex,Little Mountain Test Annex
+942,40.398694,-112.724619,http://clui.org/ludb/site/skull-valley-indian-reservation,Skull Valley Indian Reservation
+943,41.124882,-111.985275,http://clui.org/ludb/site/hill-air-force-base,Hill Air Force Base
+944,39.412956,-112.772812,http://clui.org/ludb/site/topaz-war-relocation-center,Topaz War Relocation Center
+945,39.957634,-111.855003,http://clui.org/ludb/site/tintic-standard-reduction-mill,Tintic Standard Reduction Mill
+946,39.513973,-112.585487,http://clui.org/ludb/site/intermountain-generating-station,Intermountain Generating Station
+947,41.252056,-113.081367,http://clui.org/ludb/site/great-salt-lake-pumping-station,Great Salt Lake Pumping Station
+948,41.43811,-112.667366,http://clui.org/ludb/site/spiral-jetty,Spiral Jetty
+949,40.459488,-113.648071,http://clui.org/ludb/site/wendover-bombing-range,Wendover Bombing Range
+950,40.542019,-112.733704,http://clui.org/ludb/site/iosepa,Iosepa
+951,41.659039,-112.440948,http://clui.org/ludb/site/thiokol-promontory-complex,Thiokol Promontory Complex
+952,40.735325,-112.986465,http://clui.org/ludb/site/aragonite-hazardous-waste-incinerator,Aragonite Hazardous Waste Incinerator
+953,40.372116,-112.771484,http://clui.org/ludb/site/tekoi-test-range,Tekoi Test Range
+954,40.543419,-112.201286,http://clui.org/ludb/site/tooele-smelter,Tooele Smelter
+955,37.217445,-113.642624,http://clui.org/ludb/site/conqueror-film-location-site,Conqueror Film Location Site
+956,40.828125,-113.201859,http://clui.org/ludb/site/gapa-launch-site,GAPA Launch Site
+957,40.646725,-112.525322,http://clui.org/ludb/site/bonneville-sea-base,Bonneville Sea Base
+958,37.133736,-109.874504,http://clui.org/ludb/site/mexican-hat-uranium-disposal-cell,Mexican Hat Uranium Disposal Cell
+959,41.617992,-112.551605,http://clui.org/ludb/site/golden-spike-national-historic-site,Golden Spike National Historic Site
+960,38.978928,-110.138313,http://clui.org/ludb/site/green-river-uranium-disposal-cell,Green River Uranium Disposal Cell
+961,40.600491,-112.473572,http://clui.org/ludb/site/donner-reed-museum,Donner Reed Museum
+962,41.281548,-112.231865,http://clui.org/ludb/site/great-salt-lake-minerals-company,Great Salt Lake Minerals Company
+963,40.727173,-114.036629,http://clui.org/ludb/site/wendover-airbase,Wendover Airbase
+964,40.733593,-113.551338,http://clui.org/ludb/site/tree-utah,Tree of Utah
+965,40.747116,-112.188194,http://clui.org/ludb/site/saltair-iii,Saltair III
+966,37.239418,-113.220123,http://clui.org/ludb/site/hurricane-mesa-test-track,Hurricane Mesa Test Track
+967,40.668858,-112.06913,http://clui.org/ludb/site/alliant-techsystems-bacchus-works,Alliant Techsystems Bacchus Works
+968,38.390865,-109.454605,http://clui.org/ludb/site/hole-rock,Hole in the Rock
+969,37.798695,-113.28698,http://clui.org/ludb/site/american-pacific-rocket-fuel-plant,American Pacific Rocket Fuel Plant
+970,40.684998,-113.149651,http://clui.org/ludb/site/clive-incineration-facility,Clive Incineration Facility
+971,41.049778,-112.93808,http://clui.org/ludb/site/utah-test-and-training-range-uttr,Utah Test and Training Range (UTTR)
+972,40.818485,-113.208015,http://clui.org/ludb/site/grassy-mountain-waste-dump,Grassy Mountain Waste Dump
+973,41.16227,-112.018967,http://clui.org/ludb/site/hill-aerospace-museum,Hill Aerospace Museum
+974,40.530373,-112.148262,http://clui.org/ludb/site/bingham-copper-pit,Bingham Copper Pit
+975,43.827168,-111.783844,http://clui.org/ludb/site/teton-flood-museum,Teton Flood Museum
+976,46.287886,-116.016119,http://clui.org/ludb/site/almost-heaven-2,Almost Heaven 2
+977,42.683509,-111.590313,http://clui.org/ludb/site/monsanto-phosphate-plant-and-slag-pour,Monsanto Phosphate Plant and Slag Pour
+978,42.739709,-115.582523,http://clui.org/ludb/site/saylor-creek-bombing-range,Saylor Creek Bombing Range
+979,47.545395,-116.150916,http://clui.org/ludb/site/boyer-smelter-site,Boyer Smelter Site
+980,43.636636,-113.300039,http://clui.org/ludb/site/arco,Arco
+981,42.657145,-111.605207,http://clui.org/ludb/site/captive-geyser,Captive Geyser
+982,42.738472,-111.54273,http://clui.org/ludb/site/conda-phosphate-plant,Conda Phosphate Plant
+983,43.530179,-112.942661,http://clui.org/ludb/site/idaho-national-engineering-laboratory,Idaho National Engineering Laboratory
+984,43.047254,-115.870357,http://clui.org/ludb/site/mountain-home-air-force-base,Mountain Home Air Force Base
+985,43.674081,-111.915525,http://clui.org/ludb/site/rigby-birthplace-television,"Rigby, Birthplace of Television"
+986,43.061802,-116.260498,http://clui.org/ludb/site/grand-view-chemical-waste-site,Grand View Chemical Waste Site
+987,43.910755,-111.5411,http://clui.org/ludb/site/teton-dam-failure-site,Teton Dam Failure Site
+988,44.883417,-113.97669,http://clui.org/ludb/site/dugout-ranch,Dugout Ranch
+989,47.458736,-116.845093,http://clui.org/ludb/site/coeur-dalene-lake,Coeur d&#039;Alene Lake
+990,44.084255,-115.608871,http://clui.org/ludb/site/lowman-disposal-cell,Lowman Disposal Cell
+991,47.662628,-116.757106,http://clui.org/ludb/site/coeur-dalene-resort-golf-course,Coeur d&#039;Alene Resort Golf Course
+992,39.237156,-118.262032,http://clui.org/ludb/site/bravo-17-bombing-range,Bravo 17 Bombing Range
+993,39.200176,-118.384476,http://clui.org/ludb/site/shoal-nuclear-test-site,Shoal Nuclear Test Site
+994,36.894852,-116.830627,http://clui.org/ludb/site/rhyolite-ghost-town-and-goldwell-open-air-museum,Rhyolite Ghost Town and Goldwell Open Air Museum
+995,40.820564,-119.144325,http://clui.org/ludb/site/black-rock-desert,Black Rock Desert
+996,36.767353,-116.691109,http://clui.org/ludb/site/beatty-radioactive-and-hazardous-waste-site,Beatty Radioactive and Hazardous Waste Site
+997,35.788307,-115.255554,http://clui.org/ludb/site/rift-1-jean-dry-lake,"Rift 1, Jean Dry Lake"
+998,40.413399,-116.579834,http://clui.org/ludb/site/western-shoshone-defense-project-office,Western Shoshone Defense Project Office
+999,38.059986,-117.220688,http://clui.org/ludb/site/central-nevada-museum,Central Nevada Museum
+1000,37.643845,-115.739838,http://clui.org/ludb/site/area-51-research-center,Area 51 Research Center
+1001,39.264824,-114.989265,http://clui.org/ludb/site/ruth-area-mines-liberty-pit,Ruth Area Mines / Liberty Pit
+1002,39.40649,-114.772537,http://clui.org/ludb/site/mcgill-smelter-site,McGill Smelter Site
+1003,38.311172,-116.279144,http://clui.org/ludb/site/central-nevada-test-site-base-camp,Central Nevada Test Site Base Camp
+1004,36.848171,-116.462288,http://clui.org/ludb/site/yucca-mountain-nuclear-repository,Yucca Mountain Nuclear Repository
+1005,39.423531,-118.710968,http://clui.org/ludb/site/fallon-naval-air-station,Fallon Naval Air Station
+1006,37.15,-114.32,http://clui.org/ludb/site/las-vegas-piece,Las Vegas Piece
+1007,40.674236,-119.364182,http://clui.org/ludb/site/guru-road,Guru Road
+1008,35.977776,-114.836502,http://clui.org/ludb/site/boulder-city-hoover-dam-museum,Boulder City Hoover Dam Museum
+1009,41.661186,-119.599998,http://clui.org/ludb/site/isolated-mass-circumflex,"Isolated Mass, Circumflex"
+1010,41.405067,-115.992279,http://clui.org/ludb/site/jerritt-canyon-mine,Jerritt Canyon Mine
+1011,40.901318,-119.10759,http://clui.org/ludb/site/dissipate,Dissipate
+1012,39.151497,-118.704102,http://clui.org/ludb/site/bravo-19-bombing-range,Bravo 19 Bombing Range
+1013,39.323353,-118.223526,http://clui.org/ludb/site/wilson-electronic-warfare-range,Wilson Electronic Warfare Range
+1014,38.50573,-118.587456,http://clui.org/ludb/site/hawthorne-army-ammunition-depot,Hawthorne Army Ammunition Depot
+1015,40.659935,-118.132957,http://clui.org/ludb/site/thunder-mountain,Thunder Mountain
+1016,40.754704,-119.236465,http://clui.org/ludb/site/burning-man-festival-site,Burning Man Festival Site
+1017,36.209248,-115.134872,http://clui.org/ludb/site/doe-nevada-operations-center,DOE Nevada Operations Center
+1018,39.332954,-118.873337,http://clui.org/ludb/site/bravo-16-bombing-range,Bravo 16 Bombing Range
+1019,36.011261,-115.853607,http://clui.org/ludb/site/cathedral-canyon,Cathedral Canyon
+1020,38.63422,-116.216179,http://clui.org/ludb/site/faultless-nuclear-test-site,Faultless Nuclear Test Site
+1021,35.145599,-114.593712,http://clui.org/ludb/site/mojave-generating-station,Mojave Generating Station
+1022,37.708328,-117.235626,http://clui.org/ludb/site/goldfield,Goldfield
+1023,39.867588,-118.370476,http://clui.org/ludb/site/bravo-20-bombing-range,Bravo 20 Bombing Range
+1024,37.256565,-115.803619,http://clui.org/ludb/site/groom-lake-area-51,Groom Lake/ Area 51
+1025,37.81955,-116.758232,http://clui.org/ludb/site/tonopah-test-range,Tonopah Test Range
+1026,38.031361,-115.440132,http://clui.org/ludb/site/complex-city,Complex City
+1027,36.614391,-114.344513,http://clui.org/ludb/site/double-negative,Double Negative
+1028,40.965958,-116.371994,http://clui.org/ludb/site/carlin-mine-complex,Carlin Mine Complex
+1029,37.629459,-116.444862,http://clui.org/ludb/site/nellis-range-complex,Nellis Range Complex
+1030,36.236172,-115.040756,http://clui.org/ludb/site/nellis-air-force-base,Nellis Air Force Base
+1031,36.907215,-114.935532,http://clui.org/ludb/site/cactus-springs,Cactus Springs
+1032,36.935349,-116.020264,http://clui.org/ludb/site/nevada-test-site,Nevada Test Site
+1033,41.345919,-72.080966,http://clui.org/ludb/site/general-dynamics-electric-boat-division,General Dynamics Electric Boat Division
+1034,41.547135,-73.029827,http://clui.org/ludb/site/holy-land-usa,Holy Land USA
+1035,41.311985,-72.168587,http://clui.org/ludb/site/millstone-nuclear-power-plants,Millstone Nuclear Power Plants
+1036,41.679127,-73.012409,http://clui.org/ludb/site/lock-museum-america,Lock Museum of America
+1037,41.887918,-72.712401,http://clui.org/ludb/site/knolls-atomic-power-lab-windsor-site,Knolls Atomic Power Lab - Windsor Site
+1038,41.388592,-72.085999,http://clui.org/ludb/site/new-london-naval-submarine-base,New London Naval Submarine Base
+1039,41.759068,-72.62642,http://clui.org/ludb/site/united-technologies-research-center,United Technologies Research Center
+1040,41.750442,-72.63495,http://clui.org/ludb/site/pratt-and-whitney-plant,Pratt and Whitney Plant
+1041,41.947267,-72.691147,http://clui.org/ludb/site/new-england-air-museum,New England Air Museum
+1042,41.540773,-72.560534,http://clui.org/ludb/site/pratt-and-whitney-middletown-plant,Pratt and Whitney Middletown Plant
+1043,39.0579,-98.535004,http://clui.org/ludb/site/garden-eden,Garden of Eden
+1044,39.828328,-98.579416,http://clui.org/ludb/site/geographic-center-lower-48-united-states,Geographic Center of the Lower 48 United States
+1045,37.588052,-97.413669,http://clui.org/ludb/site/big-grain-elevator,Big Grain Elevator
+1046,38.524237,-99.313086,http://clui.org/ludb/site/kansas-barbed-wire-museum,Kansas Barbed Wire Museum
+1047,38.064995,-97.921974,http://clui.org/ludb/site/kansas-cosmosphere-and-space-center,Kansas Cosmosphere and Space Center
+1048,37.623688,-97.254021,http://clui.org/ludb/site/mcconnell-air-force-base,McConnell Air Force Base
+1049,39.532026,-95.149039,http://clui.org/ludb/site/space-seed-trees,Space Seed Trees
+1050,37.088055,-95.581312,http://clui.org/ludb/site/coffeyville-hazardous-waste-site,Coffeyville Hazardous Waste Site
+1051,39.095705,-96.766891,http://clui.org/ludb/site/fort-riley,Fort Riley
+1052,37.637276,-97.420006,http://clui.org/ludb/site/cessna-aircraft-company-headquarters-and-main-plant,Cessna Aircraft Company Headquarters and Main Plant
+1053,37.273491,-94.938258,http://clui.org/ludb/site/big-brutus-coal-scoop,Big Brutus Coal Scoop
+1054,38.768519,-97.56649,http://clui.org/ludb/site/land-institute,Land Institute
+1055,39.224208,-98.54216,http://clui.org/ludb/site/geodetic-center-lower-48-united-states-america,Geodetic Center of the Lower 48 United States of America
+1056,43.7145,-98.02552,http://clui.org/ludb/site/corn-palace,Corn Palace
+1057,44.35195,-103.751235,http://clui.org/ludb/site/homestake-mine-and-underground-physics-lab,Homestake Mine and Underground Physics Lab
+1058,44.451389,-100.402779,http://clui.org/ludb/site/oahe-dam,Oahe Dam
+1059,43.836788,-103.62439,http://clui.org/ludb/site/crazy-horse-thunder-mountain,Crazy Horse at Thunder Mountain
+1060,43.993259,-102.241791,http://clui.org/ludb/site/wall-drug,Wall Drug
+1061,44.150555,-103.089775,http://clui.org/ludb/site/ellsworth-air-force-base,Ellsworth Air Force Base
+1062,44.967586,-103.772234,http://clui.org/ludb/site/geographic-center-50-united-states-america,Geographic Center of the 50 United States of America
+1063,44.504673,-72.999504,http://clui.org/ludb/site/bentley-snowflake-museum,Bentley Snowflake Museum
+1064,43.367249,-72.668465,http://clui.org/ludb/site/argonaut-talc-mine,Argonaut Talc Mine
+1065,43.323859,-73.005116,http://clui.org/ludb/site/danby-quarry,Danby Quarry
+1066,44.001396,-73.128349,http://clui.org/ludb/site/middlebury-quarry,Middlebury Quarry
+1067,43.603462,-73.051679,http://clui.org/ludb/site/carving-studio-and-sculpture-center,Carving Studio and Sculpture Center
+1068,44.155884,-72.492859,http://clui.org/ludb/site/rock-ages-quarry-visitor-center,Rock of Ages Quarry Visitor Center
+1069,44.902321,-73.138237,http://clui.org/ludb/site/swanton-icbm-silo,Swanton ICBM Silo
+1070,42.77877,-72.5131,http://clui.org/ludb/site/vermont-yankee-nuclear-power-plant,Vermont Yankee Nuclear Power Plant
+1071,43.823769,-72.472427,http://clui.org/ludb/site/joseph-smith-birthplace,Joseph Smith Birthplace
+1072,43.707966,-73.062172,http://clui.org/ludb/site/omya-verpol-operation,Omya Verpol Operation
+1073,43.474674,-72.389015,http://clui.org/ludb/site/american-precision-museum,American Precision Museum
+1074,43.165928,-73.117874,http://clui.org/ludb/site/mount-equinox,Mount Equinox
+1075,44.154408,-72.480499,http://clui.org/ludb/site/smith-granite-quarry,Smith Granite Quarry
+1076,45.00782,-72.449158,http://clui.org/ludb/site/highwater-test-range,Highwater Test Range
+1077,43.663578,-73.035294,http://clui.org/ludb/site/vermont-marble-museum,Vermont Marble Museum
+1078,43.824249,-72.328323,http://clui.org/ludb/site/elizabeth-mine-superfund-site,Elizabeth Mine Superfund Site
+1079,43.631161,-72.517828,http://clui.org/ludb/site/marsh-billings-rockefeller-national-historic-park,Marsh Billings Rockefeller National Historic Park
+1080,42.934307,-73.210144,http://clui.org/ludb/site/robert-frost-stone-house,The Robert Frost Stone House
+1081,44.486618,-72.90834,http://clui.org/ludb/site/ethan-allan-firing-range,Ethan Allan Firing Range
+1082,33.929162,-84.533433,http://clui.org/ludb/site/lockheed-martin-aeronautics,Lockheed Martin Aeronautics
+1083,33.955034,-83.382414,http://clui.org/ludb/site/tree-owns-itself,Tree that Owns Itself
+1084,34.124774,-84.921677,http://clui.org/ludb/site/bowen-power-plant,Bowen Power Plant
+1085,31.551112,-84.073155,http://clui.org/ludb/site/albany-marine-corps-logistics-base,Albany Marine Corps Logistics Base
+1086,30.801428,-81.521902,http://clui.org/ludb/site/kings-bay-submarine-base,Kings Bay Submarine Base
+1087,33.060329,-83.804138,http://clui.org/ludb/site/robert-w-scherer-power-plant,Robert W Scherer Power Plant
+1088,34.513762,-85.316868,http://clui.org/ludb/site/paradise-gardens,Paradise Gardens
+1089,33.624626,-84.327797,http://clui.org/ludb/site/fort-gillem,Fort Gillem
+1090,32.358139,-84.971519,http://clui.org/ludb/site/fort-benning,Fort Benning
+1091,33.420769,-82.149518,http://clui.org/ludb/site/fort-gordon,Fort Gordon
+1092,30.970252,-83.198476,http://clui.org/ludb/site/moody-air-force-base,Moody Air Force Base
+1093,31.875665,-81.617732,http://clui.org/ludb/site/fort-stewart,Fort Stewart
+1094,34.232101,-82.89431,http://clui.org/ludb/site/georgia-guidestones,Georgia Guidestones
+1095,33.914946,-84.51484,http://clui.org/ludb/site/dobbins-air-base,Dobbins Air Base
+1096,34.116015,-82.8723,http://clui.org/ludb/site/elberton-granite-museum,Elberton Granite Museum
+1097,33.706063,-84.437029,http://clui.org/ludb/site/fort-mcpherson,Fort McPherson
+1098,32.346432,-84.581673,http://clui.org/ludb/site/st-eoms-land-pasaquan,St. EOM&#039;s Land of Pasaquan
+1099,32.644509,-83.595786,http://clui.org/ludb/site/robins-air-force-base,Robins Air Force Base
+1100,40.683958,-74.647636,http://clui.org/ludb/site/merriewold-west,Merriewold West
+1101,40.750881,-74.110039,http://clui.org/ludb/site/sky-mound,Sky Mound
+1102,40.004875,-74.613121,http://clui.org/ludb/site/fort-dix,Fort Dix
+1103,40.636818,-74.218399,http://clui.org/ludb/site/bayway-refinery,Bayway Refinery
+1104,40.033398,-74.353752,http://clui.org/ludb/site/lakehurst-naval-air-engineering-center,Lakehurst Naval Air Engineering Center
+1105,40.665797,-74.077377,http://clui.org/ludb/site/bayonne-military-ocean-terminal,Bayonne Military Ocean Terminal
+1106,40.309444,-74.055619,http://clui.org/ludb/site/us-army-communications-electronics-museum,U.S. Army Communications-Electronics Museum
+1107,40.78491,-74.103271,http://clui.org/ludb/site/meadowlands-commission-center,Meadowlands Commission Center
+1108,40.958176,-74.536293,http://clui.org/ludb/site/picatinny-arsenal,Picatinny Arsenal
+1109,40.041645,-74.584595,http://clui.org/ludb/site/mcguire-air-force-base-0,McGuire Air Force Base
+1110,40.349163,-74.602919,http://clui.org/ludb/site/princeton-plasma-physics-lab,Princeton Plasma Physics Lab
+1111,40.852474,-74.055426,http://clui.org/ludb/site/aviation-hall-fame-new-jersey,Aviation Hall of Fame of New Jersey
+1112,40.670139,-74.638016,http://clui.org/ludb/site/amphisculpture-att-control-center,"Amphisculpture, AT&amp;T Control Center"
+1113,39.444695,-74.563029,http://clui.org/ludb/site/faa-william-j-hughes-technical-center,FAA William J. Hughes Technical Center
+1114,41.113431,-74.588612,http://clui.org/ludb/site/franklin-mineral-museum,Franklin Mineral Museum
+1115,40.315833,-74.039644,http://clui.org/ludb/site/fort-monmouth,Fort Monmouth
+1116,33.679783,-78.928185,http://clui.org/ludb/site/myrtle-beach-air-force-base,Myrtle Beach Air Force Base
+1117,33.980263,-80.481094,http://clui.org/ludb/site/shaw-air-force-base,Shaw Air Force Base
+1118,32.350201,-80.681999,http://clui.org/ludb/site/parris-island-marine-corps-base,Parris Island Marine Corps Base
+1119,32.853564,-79.943862,http://clui.org/ludb/site/charleston-naval-complex,Charleston Naval Complex
+1120,32.477511,-80.723237,http://clui.org/ludb/site/beaufort-marine-corps-air-station,Beaufort Marine Corps Air Station
+1121,34.499006,-79.309815,http://clui.org/ludb/site/south-border,South of the Border
+1122,33.610189,-81.081719,http://clui.org/ludb/site/charleston-air-force-base-north-auxiliary-field,Charleston Air Force Base North Auxiliary Field
+1123,32.897715,-80.046945,http://clui.org/ludb/site/charleston-air-force-base,Charleston Air Force Base
+1124,33.244617,-81.470161,http://clui.org/ludb/site/barnwell-radioactive-waste-facility,Barnwell Radioactive Waste Facility
+1125,33.246155,-81.667557,http://clui.org/ludb/site/savannah-river-site,Savannah River Site
+1126,34.794071,-82.892532,http://clui.org/ludb/site/oconee-nuclear-station,Oconee Nuclear Station
+1127,34.011692,-80.941551,http://clui.org/ludb/site/fort-jackson,Fort Jackson
+1128,34.796819,-82.901845,http://clui.org/ludb/site/duke-energys-world-energy,Duke Energy&#039;s World of Energy
+1129,35.140617,-79.005348,http://clui.org/ludb/site/fort-bragg,Fort Bragg
+1130,35.350617,-82.778705,http://clui.org/ludb/site/cradle-forestry,Cradle of Forestry
+1131,35.171703,-79.018135,http://clui.org/ludb/site/pope-air-force-base,Pope Air Force Base
+1132,34.905113,-76.873314,http://clui.org/ludb/site/cherry-point-marine-corps-air-station,Cherry Point Marine Corps Air Station
+1133,34.707188,-77.445198,http://clui.org/ludb/site/new-river-marine-corps-air-station,New River Marine Corps Air Station
+1134,34.665697,-77.306156,http://clui.org/ludb/site/camp-lejeune-marine-corps-base,Camp Lejeune Marine Corps Base
+1135,35.540996,-82.552908,http://clui.org/ludb/site/biltmore-estate,Biltmore Estate
+1136,36.229855,-76.13884,http://clui.org/ludb/site/dirigible-hangar-and-test-site,Dirigible Hangar and Test Site
+1137,35.350521,-77.969109,http://clui.org/ludb/site/seymour-johnson-air-force-base,Seymour Johnson Air Force Base
+1138,34.24984,-77.871284,http://clui.org/ludb/site/corning-glass-fiber-optic-plant,Corning Glass Fiber Optic Plant
+1139,29.825008,-91.806862,http://clui.org/ludb/site/weeks-island-strategic-petroleum-reserve-storage-site,Weeks Island Strategic Petroleum Reserve Storage Site
+1140,30.201965,-91.006706,http://clui.org/ludb/site/shell-geismar-plant,Shell Geismar Plant
+1141,29.826694,-90.020309,http://clui.org/ludb/site/new-orleans-naval-air-station,New Orleans Naval Air Station
+1142,29.810337,-91.662888,http://clui.org/ludb/site/tethered-aerostat-borne-radar-system-tars-site-1,Morgan City Tethered Aerostat-Borne Radar System (TARS) Site
+1143,30.316654,-91.307976,http://clui.org/ludb/site/bayou-choctaw-strategic-petroleum-reserve,Bayou Choctaw Strategic Petroleum Reserve
+1144,30.231105,-93.37707,http://clui.org/ludb/site/brimstone-museum,Brimstone Museum
+1145,29.995186,-93.403984,http://clui.org/ludb/site/west-hackberry-strategic-petroleum-reserve-storage-area,West Hackberry Strategic Petroleum Reserve Storage Area
+1146,30.077505,-89.852325,http://clui.org/ludb/site/textron-marine-and-land-systems,Textron Marine and Land Systems
+1147,29.983263,-90.446579,http://clui.org/ludb/site/union-carbide-taft-star-petrochemical-plant,Union Carbide Taft / Star Petrochemical Plant
+1148,29.947372,-90.032059,http://clui.org/ludb/site/naval-support-activity-base,Naval Support Activity Base
+1149,31.113211,-93.272255,http://clui.org/ludb/site/new-llano,New Llano
+1150,30.05899,-90.667419,http://clui.org/ludb/site/kaiser-alumina-plant,Kaiser Alumina Plant
+1151,30.496313,-91.173477,http://clui.org/ludb/site/exxon-chemical-baton-rouge-chemical-plant,Exxon Chemical Baton Rouge Chemical Plant
+1152,29.999172,-90.400742,http://clui.org/ludb/site/norco-refinery,Norco Refinery
+1153,29.944096,-90.168854,http://clui.org/ludb/site/huey-p-long-bridge,Huey P. Long Bridge
+1154,31.076351,-91.597481,http://clui.org/ludb/site/old-river-control-structure,Old River Control Structure
+1155,30.017048,-90.839722,http://clui.org/ludb/site/stjames-strategic-petroleum-reserve-terminal,St.James Strategic Petroleum Reserve Terminal
+1156,32.502739,-93.66497,http://clui.org/ludb/site/barksdale-air-force-base,Barksdale Air Force Base
+1157,30.955236,-91.59568,http://clui.org/ludb/site/angola-penitentiary,Angola Penitentiary
+1158,42.051611,-74.031882,http://clui.org/ludb/site/opus-40,Opus 40
+1159,44.254863,-73.967071,http://clui.org/ludb/site/olympic-ski-jump,Olympic Ski Jump
+1160,40.948471,-72.897972,http://clui.org/ludb/site/wardenclyffe-tesla-lab-site,Wardenclyffe Tesla Lab Site
+1161,40.703842,-73.994278,http://clui.org/ludb/site/brooklyn-bridge-anchorage,Brooklyn Bridge Anchorage
+1162,43.080517,-78.948959,http://clui.org/ludb/site/love-canal,Love Canal
+1163,42.82235,-78.859688,http://clui.org/ludb/site/lackawanna-steel-plant,Lackawanna Steel Plant
+1164,41.40189,-73.929108,http://clui.org/ludb/site/dicks-castle,Dick&#039;s Castle
+1165,42.149261,-77.054588,http://clui.org/ludb/site/corning-glass-headquarters-and-discovery-center,Corning Glass Headquarters and Discovery Center
+1166,41.798702,-74.42997,http://clui.org/ludb/site/delaware-tunnel-origin,Delaware Tunnel Origin
+1167,43.295261,-73.591408,http://clui.org/ludb/site/general-electric-hudson-falls-plant,General Electric Hudson Falls Plant
+1168,40.727043,-73.999527,http://clui.org/ludb/site/time-landscape,Time Landscape
+1169,42.72028,-73.708778,http://clui.org/ludb/site/watervliet-arsenal,Watervliet Arsenal
+1170,44.663475,-73.45359,http://clui.org/ludb/site/plattsburgh-air-force-base,Plattsburgh Air Force Base
+1171,42.824871,-77.885385,http://clui.org/ludb/site/retsof-salt-mine,Retsof Salt Mine
+1172,43.099346,-76.204315,http://clui.org/ludb/site/salt-museum,Salt Museum
+1173,42.963879,-73.758331,http://clui.org/ludb/site/malta-test-station,Malta Test Station
+1174,42.049311,-74.286972,http://clui.org/ludb/site/catskill-corners-kaleidoscope,Catskill Corners Kaleidoscope
+1175,43.040165,-73.953522,http://clui.org/ludb/site/knolls-kesselring-site,Knolls Kesselring Site
+1176,41.842719,-74.098505,http://clui.org/ludb/site/widow-jane-mine,Widow Jane Mine
+1177,42.44963,-76.48441,http://clui.org/ludb/site/earth-art-exhibit-site,Earth Art Exhibit Site
+1178,40.720722,-73.89679,http://clui.org/ludb/site/new-york-city-water-tunnel-number-3,New York City Water Tunnel Number 3
+1179,40.566048,-74.203033,http://clui.org/ludb/site/fresh-kills-dump,Fresh Kills Dump
+1180,42.708961,-74.391342,http://clui.org/ludb/site/secret-caverns,Secret Caverns
+1181,42.745815,-76.863953,http://clui.org/ludb/site/seneca-army-depot,Seneca Army Depot
+1182,41.851407,-74.088305,http://clui.org/ludb/site/iron-mountain-rosendale-storage-facility,Iron Mountain Rosendale Storage Facility
+1183,43.077258,-79.014364,http://clui.org/ludb/site/niagara-power-station-intake,Niagara Power Station Intake
+1184,42.932571,-78.721724,http://clui.org/ludb/site/calspan-university-buffalo-research-center-cubrc,Calspan-University of Buffalo Research Center (CUBRC)
+1185,42.45068,-78.654503,http://clui.org/ludb/site/west-valley-reprocessing-plant,West Valley Reprocessing Plant
+1186,42.992052,-76.062098,http://clui.org/ludb/site/jamesville-quarry,Jamesville Quarry
+1187,41.062222,-71.874168,http://clui.org/ludb/site/montauk-military-base,Montauk Military Base
+1188,43.218063,-78.973328,http://clui.org/ludb/site/model-city-chemical-waste-dump,Model City Chemical Waste Dump
+1189,44.03764,-75.767479,http://clui.org/ludb/site/fort-drum,Fort Drum
+1190,42.828396,-73.873955,http://clui.org/ludb/site/knolls-atomic-power-laboratory,Knolls Atomic Power Laboratory
+1191,44.13208,-76.343224,http://clui.org/ludb/site/st-lawrence-seaway-terminus,St. Lawrence Seaway Terminus
+1192,40.765057,-74.014053,http://clui.org/ludb/site/lincoln-tunnel,Lincoln Tunnel
+1193,40.873344,-72.872055,http://clui.org/ludb/site/brookhaven-national-laboratory,Brookhaven National Laboratory
+1194,44.723076,-73.721176,http://clui.org/ludb/site/clinton-state-prison,Clinton State Prison
+1195,43.162773,-79.044571,http://clui.org/ludb/site/art-park,Art Park
+1196,43.519302,-76.405273,http://clui.org/ludb/site/nine-mile-point-nuclear-station,Nine Mile Point Nuclear Station
+1197,40.745605,-73.845322,http://clui.org/ludb/site/panorama-new-york-city-model,Panorama of New York City Model
+1198,42.695591,-74.398445,http://clui.org/ludb/site/howe-caverns,Howe Caverns
+1199,32.259819,-103.865616,http://clui.org/ludb/site/gnome-nuclear-test-site,Gnome Nuclear Test Site
+1200,35.642861,-108.50883,http://clui.org/ludb/site/church-rock-tailing-pile-spill-site,Church Rock Tailing Pile Spill Site
+1201,35.78325,-106.274062,http://clui.org/ludb/site/bandelier-national-monument,Bandelier National Monument
+1202,35.153248,-107.854759,http://clui.org/ludb/site/new-mexico-uranium-mining-museum,New Mexico Uranium Mining Museum
+1203,32.099881,-103.189908,http://clui.org/ludb/site/jal-lake,Jal Lake
+1204,34.965172,-106.463013,http://clui.org/ludb/site/starfire-optical-range,Starfire Optical Range
+1205,32.175667,-104.444252,http://clui.org/ludb/site/carlsbad-caverns,Carlsbad Caverns
+1206,32.842989,-104.393104,http://clui.org/ludb/site/navajo-refinery,Navajo Refinery
+1207,34.995612,-106.574241,http://clui.org/ludb/site/mark-17-bomb-accident-site,Mark 17 Bomb Accident Site
+1208,33.981598,-107.187821,http://clui.org/ludb/site/magdalena-ridge-observatory-and-langmuir-lab,Magdalena Ridge Observatory and Langmuir Lab
+1209,34.896561,-107.581802,http://clui.org/ludb/site/acoma-sky-city,Acoma Sky City
+1210,32.543414,-103.753917,http://clui.org/ludb/site/cri-waste-site,CRI Waste Site
+1211,37.000364,-106.972761,http://clui.org/ludb/site/dulce-ufo-site,Dulce UFO Site
+1212,35.408638,-107.800598,http://clui.org/ludb/site/ambrosia-lake-uranium-tailings-pile,Ambrosia Lake Uranium Tailings Pile
+1213,32.510777,-106.610298,http://clui.org/ludb/site/white-sands-test-facility-nasa,White Sands Test Facility (NASA)
+1214,34.077972,-107.618462,http://clui.org/ludb/site/national-radio-astronomy-observatory-very-large-array,"National Radio Astronomy Observatory, Very Large Array"
+1215,32.792831,-108.068176,http://clui.org/ludb/site/santa-rita-mine,Santa Rita Mine
+1216,36.516759,-105.753204,http://clui.org/ludb/site/greater-world-community-earthship-cluster,Greater World Community Earthship Cluster
+1217,36.476757,-105.732931,http://clui.org/ludb/site/rio-grande-gorge-bridge,Rio Grande Gorge Bridge
+1218,34.940274,-110.300953,http://clui.org/ludb/site/cholla-power-plant,Cholla Power Plant
+1219,35.189777,-106.59793,http://clui.org/ludb/site/balloon-museum-and-balloon-park,Balloon Museum And Balloon Park
+1220,32.780186,-105.819801,http://clui.org/ludb/site/apache-point-observatory,Apache Point Observatory
+1221,35.881626,-106.298409,http://clui.org/ludb/site/bradbury-science-museum,Bradbury Science Museum
+1222,34.08302,-107.021524,http://clui.org/ludb/site/energetic-materials-research-and-testing-center,Energetic Materials Research and Testing Center
+1223,32.843395,-106.088875,http://clui.org/ludb/site/holloman-air-force-base,Holloman Air Force Base
+1224,33.677425,-106.4758,http://clui.org/ludb/site/trinity-site,Trinity Site
+1225,36.677962,-107.207964,http://clui.org/ludb/site/gasbuggy-nuclear-test-site,Gasbuggy Nuclear Test Site
+1226,35.405472,-106.15348,http://clui.org/ludb/site/madrid,Madrid
+1227,34.384827,-103.31649,http://clui.org/ludb/site/cannon-air-force-base,Cannon Air Force Base
+1228,33.154071,-107.192064,http://clui.org/ludb/site/elephant-butte-reservoir-and-dam,Elephant Butte Reservoir and Dam
+1229,33.305714,-104.52375,http://clui.org/ludb/site/roswell-army-air-field,Roswell Army Air Field
+1230,32.859367,-104.417002,http://clui.org/ludb/site/artesia-law-enforcement-training-center,Artesia Law Enforcement Training Center
+1231,35.169405,-106.367352,http://clui.org/ludb/site/tinkertown,Tinkertown
+1232,36.769863,-108.6856,http://clui.org/ludb/site/shiprock-uranium-disposal-cell,Shiprock Uranium Disposal Cell
+1233,35.401443,-107.836411,http://clui.org/ludb/site/quivira-uranium-mill-site-and-disposal-cell,Quivira Uranium Mill Site and Disposal Cell
+1234,35.049812,-106.54258,http://clui.org/ludb/site/sandia-national-laboratory,Sandia National Laboratory
+1235,35.877037,-106.322639,http://clui.org/ludb/site/los-alamos-national-laboratory,Los Alamos National Laboratory
+1236,32.789726,-105.819626,http://clui.org/ludb/site/sunspot-national-solar-observatory,Sunspot National Solar Observatory
+1237,35.519836,-104.577243,http://clui.org/ludb/site/trementina-base-0,Trementina Base
+1238,35.224746,-106.656829,http://clui.org/ludb/site/albuquerque-intel-plant,Albuquerque Intel Plant
+1239,32.373074,-103.793808,http://clui.org/ludb/site/waste-isolation-pilot-plant-wipp,Waste Isolation Pilot Plant (WIPP)
+1240,34.066311,-106.904091,http://clui.org/ludb/site/new-mexico-institute-mining-and-technology,New Mexico Institute of Mining and Technology
+1241,35.900588,-106.321196,http://clui.org/ludb/site/black-hole,Black Hole
+1242,31.917637,-108.534454,http://clui.org/ludb/site/playas,Playas
+1243,35.490307,-108.590073,http://clui.org/ludb/site/fort-wingate,Fort Wingate
+1244,32.64082,-108.369827,http://clui.org/ludb/site/tyrone-open-pit-copper-mine,Tyrone Open Pit Copper Mine
+1245,34.51363,-108.104355,http://clui.org/ludb/site/lightning-field,Lightning Field
+1246,32.8322,-104.418551,http://clui.org/ludb/site/abo-elementary-school-and-fallout-shelter,Abo Elementary School and Fallout Shelter
+1247,35.581888,-106.104169,http://clui.org/ludb/site/jb-jacksons-home,JB Jackson&#039;s Home
+1248,33.393683,-104.523114,http://clui.org/ludb/site/international-ufo-museum,International UFO Museum
+1249,32.590675,-107.975487,http://clui.org/ludb/site/city-rocks-state-park,City of Rocks State Park
+1250,32.385834,-106.478615,http://clui.org/ludb/site/white-sands-missile-range,White Sands Missile Range
+1251,32.434944,-103.080007,http://clui.org/ludb/site/national-enrichment-facility,National Enrichment Facility
+1252,35.066254,-106.53334,http://clui.org/ludb/site/national-museum-nuclear-science-and-history,National Museum of Nuclear Science and History
+1253,35.047005,-106.593643,http://clui.org/ludb/site/kirtland-air-force-base,Kirtland Air Force Base
+1254,35.263561,-105.086975,http://clui.org/ludb/site/star-axis,Star Axis
+1255,70.255409,-148.623352,http://clui.org/ludb/site/alaska-pipeline-origin,Alaska Pipeline Origin
+1256,64.951317,-147.620499,http://clui.org/ludb/site/permafrost-research-tunnel,Permafrost Research Tunnel
+1257,51.413822,179.182892,http://clui.org/ludb/site/milrow-nuclear-test-site,Milrow Nuclear Test Site
+1258,64.563195,-165.372391,http://clui.org/ludb/site/nome-gold-mines,Nome Gold Mines
+1259,63.971142,-145.744629,http://clui.org/ludb/site/fort-greely,Fort Greely
+1260,69.426689,-155.566406,http://clui.org/ludb/site/national-petroleum-reserve-alaska,National Petroleum Reserve Alaska
+1261,68.064846,-162.845192,http://clui.org/ludb/site/red-dog-mine,Red Dog Mine
+1262,51.470798,179.104614,http://clui.org/ludb/site/cannikin-nuclear-test-site,Cannikin Nuclear Test Site
+1263,51.437477,179.180237,http://clui.org/ludb/site/long-shot-nuclear-test-site,Long Shot Nuclear Test Site
+1264,64.736031,-147.35022,http://clui.org/ludb/site/north-pole-refinery,North Pole Refinery
+1265,64.8283,-147.65567,http://clui.org/ludb/site/fort-wainwright,Fort Wainwright
+1266,61.129407,-146.354526,http://clui.org/ludb/site/valdez-museum,The Valdez Museum
+1267,64.672096,-147.099548,http://clui.org/ludb/site/eielson-air-force-base,Eielson Air Force Base
+1268,64.03788,-145.732437,http://clui.org/ludb/site/alaska-highway-terminus,Alaska Highway Terminus
+1269,51.872227,-176.646774,http://clui.org/ludb/site/adak-naval-station,Adak Naval Station
+1270,53.91622,-166.514454,http://clui.org/ludb/site/dutch-harbor-naval-base,Dutch Harbor Naval Base
+1271,61.576874,-149.547226,http://clui.org/ludb/site/museum-alaska-transportation-and-industry,Museum of Alaska Transportation and Industry
+1272,68.097519,-165.755203,http://clui.org/ludb/site/project-chariot-site,Project Chariot Site
+1273,61.25462,-149.688675,http://clui.org/ludb/site/fort-richardson,Fort Richardson
+1274,61.082783,-146.367111,http://clui.org/ludb/site/alaska-pipeline-terminus,Alaska Pipeline Terminus
+1275,58.080977,-134.643288,http://clui.org/ludb/site/greens-creek-mine,Greens Creek Mine
+1276,62.391644,-145.149994,http://clui.org/ludb/site/high-frequency-active-auroral-research-project-transmitter-site,High Frequency Active Auroral Research Project Transmitter Site
+1277,61.25153,-149.812668,http://clui.org/ludb/site/elmendorf-air-force-base,Elmendorf Air Force Base
+1278,70.331802,-148.748016,http://clui.org/ludb/site/prudhoe-bay-oil-field,Prudhoe Bay Oil Field
+1279,61.486126,-142.888611,http://clui.org/ludb/site/kennecott-copper-mine,Kennecott Copper Mine
+1280,65.490044,-148.657806,http://clui.org/ludb/site/dalton-highway-origin,Dalton Highway Origin
+1281,39.111748,-76.775635,http://clui.org/ludb/site/national-security-agency-nsa-headquarters,National Security Agency (NSA) Headquarters
+1282,39.492763,-76.149223,http://clui.org/ludb/site/aberdeen-proving-ground-ordnance-museum,Aberdeen Proving Ground Ordnance Museum
+1283,39.162804,-76.899498,http://clui.org/ludb/site/johns-hopkins-applied-physics-laboratory,Johns Hopkins Applied Physics Laboratory
+1284,38.889072,-76.544579,http://clui.org/ludb/site/smithsonian-environmental-research-center,Smithsonian Environmental Research Center
+1285,39.107552,-76.737442,http://clui.org/ludb/site/fort-meade,Fort Meade
+1286,38.282215,-76.427795,http://clui.org/ludb/site/patuxent-river-naval-air-station,Patuxent River Naval Air Station
+1287,39.2603,-76.576698,http://clui.org/ludb/site/fort-mchenry-tunnel,Fort McHenry Tunnel
+1288,38.995808,-76.854691,http://clui.org/ludb/site/goddard-space-flight-center-nasa,Goddard Space Flight Center (NASA)
+1289,39.284877,-76.603344,http://clui.org/ludb/site/baltimore-public-works-museum,Baltimore Public Works Museum
+1290,39.407684,-76.203232,http://clui.org/ludb/site/aberdeen-proving-ground,Aberdeen Proving Ground
+1291,39.707998,-77.493417,http://clui.org/ludb/site/fort-ritchie,Fort Ritchie
+1292,39.6945,-77.327499,http://clui.org/ludb/site/national-emergency-training-center,National Emergency Training Center
+1293,39.435596,-77.427223,http://clui.org/ludb/site/fort-detrick,Fort Detrick
+1294,39.135555,-77.218613,http://clui.org/ludb/site/national-institute-standards-and-technology-campus,National Institute of Standards and Technology Campus
+1295,39.033607,-76.986084,http://clui.org/ludb/site/white-oak-naval-ordnance-laboratory,White Oak Naval Ordnance Laboratory
+1296,39.32342,-76.351461,http://clui.org/ludb/site/edgewood-arsenal,Edgewood Arsenal
+1297,39.280029,-76.858639,http://clui.org/ludb/site/enchanted-forest,Enchanted Forest
+1298,38.80558,-76.883804,http://clui.org/ludb/site/andrews-air-force-base,Andrews Air Force Base
+1299,38.895167,-77.025208,http://clui.org/ludb/site/federal-bureau-investigation-fbi-headquarters,Federal Bureau of Investigation (FBI) Headquarters
+1300,38.889179,-77.026115,http://clui.org/ludb/site/smithsonian-institution-headquarters,Smithsonian Institution Headquarters
+1301,38.897761,-77.017709,http://clui.org/ludb/site/national-building-museum,National Building Museum
+1302,38.888681,-77.004864,http://clui.org/ludb/site/library-congress-jefferon-building,"Library of Congress, Jefferon Building"
+1303,32.364577,-88.700691,http://clui.org/ludb/site/threefoot-building,Threefoot Building
+1304,31.14056,-89.573334,http://clui.org/ludb/site/salmon-and-sterling-nuclear-test-sites,Salmon and Sterling Nuclear Test Sites
+1305,30.370987,-89.127899,http://clui.org/ludb/site/gulfport-naval-construction-battalion-center,Gulfport Naval Construction Battalion Center
+1306,32.305984,-90.315903,http://clui.org/ludb/site/mississippi-hydraulic-model,Mississippi Hydraulic Model
+1307,32.829468,-91.132957,http://clui.org/ludb/site/stack-island,Stack Island
+1308,32.301861,-90.873413,http://clui.org/ludb/site/waterways-experiment-station,Waterways Experiment Station
+1309,32.550701,-88.606598,http://clui.org/ludb/site/naval-air-station-meridian,Naval Air Station Meridian
+1310,32.007569,-91.049151,http://clui.org/ludb/site/grand-gulf-nuclear-power-station,Grand Gulf Nuclear Power Station
+1311,30.38032,-89.624168,http://clui.org/ludb/site/stennis-space-center-nasa,Stennis Space Center (NASA)
+1312,30.339916,-88.513885,http://clui.org/ludb/site/signal-marine-pascagoula-rig-yards,Signal Marine Pascagoula Rig Yards
+1313,33.634571,-88.450493,http://clui.org/ludb/site/columbus-air-force-base,Columbus Air Force Base
+1314,30.408894,-88.922096,http://clui.org/ludb/site/keesler-air-force-base,Keesler Air Force Base
+1315,30.350695,-88.575127,http://clui.org/ludb/site/ingalls-shipbuilding-yard,Ingalls Shipbuilding Yard
+1316,45.419582,-123.804588,http://clui.org/ludb/site/tillamook-dirigible-hangars,Tillamook Dirigible Hangars
+1317,46.038418,-122.885124,http://clui.org/ludb/site/trojan-nuclear-power-plant,Trojan Nuclear Power Plant
+1318,42.286204,-120.433406,http://clui.org/ludb/site/lakeview-disposal-cell,Lakeview Disposal Cell
+1319,42.493258,-123.084626,http://clui.org/ludb/site/oregon-vortex,Oregon Vortex
+1320,44.388494,-122.994888,http://clui.org/ludb/site/living-rock-studios,Living Rock Studios
+1321,44.831345,-120.483582,http://clui.org/ludb/site/rajneeshpuram-site,Rajneeshpuram Site
+1322,45.843056,-119.438057,http://clui.org/ludb/site/umatilla-army-depot,Umatilla Army Depot
+1323,45.637894,-120.21669,http://clui.org/ludb/site/arlington-chemical-waste-facility,Arlington Chemical Waste Facility
+1324,45.640343,-121.946579,http://clui.org/ludb/site/bonneville-dam,Bonneville Dam
+1325,45.714931,-120.692711,http://clui.org/ludb/site/john-day-dam,John Day Dam
+1326,45.726315,-119.685059,http://clui.org/ludb/site/boardman-bombing-range,Boardman Bombing Range
+1327,41.709767,-87.97667,http://clui.org/ludb/site/argonne-national-laboratory,Argonne National Laboratory
+1328,42.209194,-90.313797,http://clui.org/ludb/site/savanna-army-depot,Savanna Army Depot
+1329,41.519258,-90.543153,http://clui.org/ludb/site/rock-island-arsenal-museum,Rock Island Arsenal Museum
+1330,41.644537,-87.575176,http://clui.org/ludb/site/calumet-chemical-waste-dump,Calumet Chemical Waste Dump
+1331,41.792473,-87.60106,http://clui.org/ludb/site/first-chain-reaction-site-university-chicago,"First Chain Reaction Site, University of Chicago"
+1332,41.325011,-88.915991,http://clui.org/ludb/site/effigy-tumuli,Effigy Tumuli
+1333,39.868122,-88.888589,http://clui.org/ludb/site/archer-daniels-midland-company-headquarters,Archer Daniels Midland Company Headquarters
+1334,41.8321,-88.252058,http://clui.org/ludb/site/fermi-national-accelerator-laboratory-fermilab,Fermi National Accelerator Laboratory (Fermilab)
+1335,40.290874,-88.147011,http://clui.org/ludb/site/chanute-air-force-base,Chanute Air Force Base
+1336,41.517513,-90.550561,http://clui.org/ludb/site/rock-island-arsenal,Rock Island Arsenal
+1337,42.257492,-88.108765,http://clui.org/ludb/site/curt-teich-postcard-archives,Curt Teich Postcard Archives
+1338,41.986555,-87.908993,http://clui.org/ludb/site/chicago-ohare-airport,Chicago O&#039;Hare Airport
+1339,37.420012,-88.345504,http://clui.org/ludb/site/american-fluorite-museum,American Fluorite  Museum
+1340,42.312504,-87.843236,http://clui.org/ludb/site/great-lakes-naval-training-center,Great Lakes Naval Training Center
+1341,41.569421,-88.077886,http://clui.org/ludb/site/lockport-gates,Lockport Gates
+1342,41.339525,-89.79332,http://clui.org/ludb/site/sheffield-radioactive-waste-site,Sheffield  Radioactive Waste Site
+1343,41.61323,-87.668914,http://clui.org/ludb/site/dixie-square-mall,Dixie Square Mall
+1344,41.817546,-87.765591,http://clui.org/ludb/site/stickney-sewage-works,Stickney Sewage Works
+1345,32.80725,-97.160425,http://clui.org/ludb/site/bell-helicopter-fort-worth-factory,Bell Helicopter Fort Worth Factory
+1346,28.510561,-96.771698,http://clui.org/ludb/site/dow-seadrift,Dow Seadrift
+1347,29.849731,-94.896469,http://clui.org/ludb/site/mont-belvieu-storage-area,Mont Belvieu Storage Area
+1348,27.881269,-97.242479,http://clui.org/ludb/site/oxychem-ingleside-plant,OxyChem Ingleside Plant
+1349,29.584066,-98.605911,http://clui.org/ludb/site/valero-energy-corporation-headquarters,Valero Energy Corporation Headquarters
+1350,29.713257,-95.564001,http://clui.org/ludb/site/m-i-swaco-corporate-headquarters,M-I SWACO Corporate Headquarters
+1351,32.188399,-94.262395,http://clui.org/ludb/site/carthage-gas-plant,Carthage Gas Plant
+1352,29.557556,-95.087314,http://clui.org/ludb/site/johnson-space-center-nasa,Johnson Space Center (NASA)
+1353,29.375818,-94.923119,http://clui.org/ludb/site/texas-city-refinery,Texas City Refinery
+1354,35.954527,-101.879075,http://clui.org/ludb/site/valero-sunray,Valero Sunray
+1355,32.745396,-96.981354,http://clui.org/ludb/site/vought-center-plant,Vought Center Plant
+1356,29.723018,-95.254812,http://clui.org/ludb/site/valero-houston-refinery,Valero Houston Refinery
+1357,27.864347,-97.167038,http://clui.org/ludb/site/aker-gulf-marine-fabrication-yard,Aker Gulf Marine Fabrication Yard
+1358,30.911835,-94.824203,http://clui.org/ludb/site/dinosaur-gardens,Dinosaur Gardens
+1359,32.585361,-96.968848,http://clui.org/ludb/site/kxtx-tv-tower-collapse-site,KXTX TV Tower Collapse Site
+1360,32.928086,-96.822424,http://clui.org/ludb/site/oxychem-corporate-headquarters,OxyChem Corporate Headquarters
+1361,35.267938,-102.051026,http://clui.org/ludb/site/floating-mesa,Floating Mesa
+1362,29.731851,-95.103579,http://clui.org/ludb/site/rohm-and-haas-deer-park,Rohm and Haas Deer Park
+1363,31.43401,-100.40493,http://clui.org/ludb/site/goodfellow-air-force-base,Goodfellow Air Force Base
+1364,30.434448,-104.320614,http://clui.org/ludb/site/tethered-aerostat-borne-radar-system-tars-site-2,Tethered Aerostat-Borne Radar System (TARS) Marfa Site
+1365,29.60063,-95.176857,http://clui.org/ludb/site/ellington-field,Ellington Field
+1366,29.751783,-95.04891,http://clui.org/ludb/site/brownwood-subdivision,Brownwood Subdivision
+1367,31.972288,-102.085261,http://clui.org/ludb/site/permian-basin-petroleum-museum,Permian Basin Petroleum Museum
+1368,30.608133,-97.687967,http://clui.org/ludb/site/inner-space-cavern,Inner Space Cavern
+1369,29.749698,-95.464743,http://clui.org/ludb/site/texas-petrochemicals-corporate-headquarters,Texas Petrochemicals Corporate Headquarters
+1370,30.978333,-100.552498,http://clui.org/ludb/site/eldorado-air-force-station,Eldorado Air Force Station
+1371,29.731458,-95.438919,http://clui.org/ludb/site/koch-supply-and-trading-office,Koch Supply and Trading Office
+1372,29.715825,-95.232282,http://clui.org/ludb/site/lyondell-houston-refinery,Lyondell Houston Refinery
+1373,29.807415,-95.77681,http://clui.org/ludb/site/forbidden-gardens-site,Forbidden Gardens Site
+1374,30.083191,-94.09668,http://clui.org/ludb/site/texas-energy-museum,Texas Energy Museum
+1375,33.973618,-98.510368,http://clui.org/ludb/site/sheppard-air-force-base,Sheppard Air Force Base
+1376,29.749736,-95.472168,http://clui.org/ludb/site/marathon-corporate-headquarters,Marathon Corporate Headquarters
+1377,29.717138,-93.863143,http://clui.org/ludb/site/rowan-marine-services-sabine-yard,Rowan Marine Services Sabine Yard
+1378,31.193113,-105.418544,http://clui.org/ludb/site/sierra-blanca-sludge-ranch,Sierra Blanca Sludge Ranch
+1379,29.371817,-94.890418,http://clui.org/ludb/site/port-texas-city,Port of Texas City
+1380,29.834934,-95.562789,http://clui.org/ludb/site/cameron-drilling-production-systems,Cameron Drilling &amp; Production Systems
+1381,28.691042,-96.542959,http://clui.org/ludb/site/formosa-plastics-point-comfort,Formosa Plastics Point Comfort
+1382,29.701214,-95.254984,http://clui.org/ludb/site/texas-petrochemicals-houston,Texas Petrochemicals Houston
+1383,29.712023,-95.066414,http://clui.org/ludb/site/lyondell-la-porte-complex,Lyondell La Porte Complex
+1384,30.016123,-94.073457,http://clui.org/ludb/site/spindletop-salt-dome,Spindletop Salt Dome
+1385,29.627303,-95.61043,http://clui.org/ludb/site/schlumberger-campus,Schlumberger Campus
+1386,29.508517,-95.136082,http://clui.org/ludb/site/mother-earth-eco-sculpture,Mother Earth Eco-Sculpture
+1387,28.796698,-96.056381,http://clui.org/ludb/site/bay-city-nuclear-power-plant,Bay City Nuclear Power Plant
+1388,29.753387,-95.452352,http://clui.org/ludb/site/weatherford-corporate-headquarters,Weatherford Corporate Headquarters
+1389,32.423805,-99.83963,http://clui.org/ludb/site/dyess-air-force-base,Dyess Air Force Base
+1390,32.364204,-96.944046,http://clui.org/ludb/site/superconducting-super-collider-site,Superconducting Super Collider Site
+1391,29.836401,-93.962975,http://clui.org/ludb/site/coke-dock-port-arthur,Coke Dock Port Arthur
+1392,35.311569,-101.559723,http://clui.org/ludb/site/pantex-plant,Pantex Plant
+1393,27.832551,-97.525978,http://clui.org/ludb/site/flint-hills-corpus-christi,Flint Hills Corpus Christi
+1394,29.683891,-95.457405,http://clui.org/ludb/site/aramco-services-company-headquarters,Aramco Services Company Headquarters
+1395,27.807727,-97.422895,http://clui.org/ludb/site/valero-corpus-christi,Valero Corpus Christi
+1396,32.002263,-106.193161,http://clui.org/ludb/site/fort-bliss,Fort Bliss
+1397,29.78224,-95.6303,http://clui.org/ludb/site/bp-westlake-campus,BP Westlake Campus
+1398,29.788329,-95.660062,http://clui.org/ludb/site/transocean-offshore-corporate-office,Transocean Offshore Corporate Office
+1399,30.160398,-95.452459,http://clui.org/ludb/site/anadarko-petroleum-corporate-headquarters,Anadarko Petroleum Corporate Headquarters
+1400,28.569301,-96.832809,http://clui.org/ludb/site/ineos-nitriles-green-lake,Ineos Nitriles Green Lake
+1401,35.483351,-101.049371,http://clui.org/ludb/site/celanese-pampa,Celanese Pampa
+1402,29.742321,-95.010452,http://clui.org/ludb/site/exxonmobil-baytown-refinery,ExxonMobil Baytown Refinery
+1403,29.945574,-95.453392,http://clui.org/ludb/site/fmc-technologies-corporate-headquarters,FMC Technologies Corporate Headquarters
+1404,29.75,-95.080833,http://clui.org/ludb/site/san-jacinto-column,San Jacinto Column
+1405,28.992981,-95.398579,http://clui.org/ludb/site/dow-freeport,Dow Freeport
+1406,29.73962,-95.092077,http://clui.org/ludb/site/vopak-and-intercontinental-terminal-deer-park,Vopak and Intercontinental Terminal Deer Park
+1407,29.964007,-95.385361,http://clui.org/ludb/site/smith-international-corporate-headquarters,Smith International Corporate Headquarters
+1408,29.756098,-95.362326,http://clui.org/ludb/site/lyondell-corporate-headquarters,Lyondell Corporate Headquarters
+1409,29.72121,-95.209129,http://clui.org/ludb/site/pasadena-refining-company,Pasadena Refining Company
+1410,31.595833,-96.988052,http://clui.org/ludb/site/mount-carmel,Mount Carmel
+1411,35.665874,-101.434622,http://clui.org/ludb/site/carbon-black-plant-borger,Carbon Black Plant Borger
+1412,28.904428,-98.132286,http://clui.org/ludb/site/falls-city-uranium-disposal-cell,Falls City Uranium Disposal Cell
+1413,33.594345,-102.028793,http://clui.org/ludb/site/reese-air-force-base,Reese Air Force Base
+1414,30.05435,-93.753676,http://clui.org/ludb/site/dupont-sabine-river-works,DuPont Sabine River Works
+1415,29.745656,-95.462158,http://clui.org/ludb/site/apache-corporate-headquarters,Apache Corporate Headquarters
+1416,29.75783,-95.36739,http://clui.org/ludb/site/el-paso-corporate-headquarters,El Paso Corporate Headquarters
+1417,29.727416,-95.075684,http://clui.org/ludb/site/oxyvinyls-la-porte,Oxyvinyls La Porte
+1418,30.157874,-95.462683,http://clui.org/ludb/site/chevronphillips-corporate-headquarters,ChevronPhillips Corporate Headquarters
+1419,30.069095,-94.068289,http://clui.org/ludb/site/exxonmobil-beaumont,ExxonMobil Beaumont
+1420,29.788101,-95.685301,http://clui.org/ludb/site/wood-group-corporate-office,Wood Group Corporate Office
+1421,25.96991,-97.359767,http://clui.org/ludb/site/keppel-amfels-brownsville-fabrication-yard,Keppel AmFELS Brownsville Fabrication Yard
+1422,32.440431,-94.687514,http://clui.org/ludb/site/eastman-longview,Eastman Longview
+1423,29.309704,-94.791763,http://clui.org/ludb/site/ocean-star-museum,Ocean Star Museum
+1424,29.749512,-94.243637,http://clui.org/ludb/site/big-hill-strategic-petroleum-reserve,Big Hill Strategic Petroleum Reserve
+1425,29.786988,-95.606482,http://clui.org/ludb/site/shell-oil-woodcreek-complex,Shell Oil Woodcreek Complex
+1426,29.391375,-98.570969,http://clui.org/ludb/site/kelly-air-force-base,Kelly Air Force Base
+1427,28.860463,-96.020851,http://clui.org/ludb/site/oxea-bay-city,Oxea Bay City
+1428,29.364777,-94.810638,http://clui.org/ludb/site/galveston-breakwater,Galveston Breakwater
+1429,29.809322,-101.560341,http://clui.org/ludb/site/judge-roy-bean-saloon-and-museum,Judge Roy Bean Saloon and Museum
+1430,29.983262,-93.946238,http://clui.org/ludb/site/texas-petrochemicals-port-neches,Texas Petrochemicals Port Neches
+1431,29.756419,-95.368549,http://clui.org/ludb/site/total-corporate-office,Total Corporate Office
+1432,31.78015,-106.522386,http://clui.org/ludb/site/asarco-copper-smelter,Asarco Copper Smelter
+1433,29.532429,-98.279289,http://clui.org/ludb/site/randolph-air-force-base,Randolph Air Force Base
+1434,30.159614,-95.456412,http://clui.org/ludb/site/huntsman-corporate-headquarters,Huntsman Corporate Headquarters
+1435,30.300029,-104.026153,http://clui.org/ludb/site/chinati-foundation,Chinati Foundation
+1436,32.268338,-101.417391,http://clui.org/ludb/site/big-spring-refinery,Big Spring Refinery
+1437,29.743665,-95.010796,http://clui.org/ludb/site/exxon-baytown-plant,Exxon Baytown Plant
+1438,29.719887,-95.271045,http://clui.org/ludb/site/rhodia-houston-plant,Rhodia Houston Plant
+1439,35.187222,-101.987053,http://clui.org/ludb/site/cadillac-ranch,Cadillac Ranch
+1440,29.625029,-95.061522,http://clui.org/ludb/site/celanese-clear-lake,Celanese Clear Lake
+1441,32.890021,-96.949829,http://clui.org/ludb/site/exxonmobil-corporate-headquarters,ExxonMobil Corporate Headquarters
+1442,29.720784,-95.126238,http://clui.org/ludb/site/shell-deer-park,Shell Deer Park
+1443,29.730564,-95.111107,http://clui.org/ludb/site/oxyvinyls-deer-park-0,Oxyvinyls Deer Park
+1444,29.754817,-95.360711,http://clui.org/ludb/site/halliburton-corporate-headquarters,Halliburton Corporate Headquarters
+1445,30.013522,-94.028893,http://clui.org/ludb/site/dupont-beaumont,DuPont Beaumont
+1446,29.948428,-95.42362,http://clui.org/ludb/site/nabors-industries-office,Nabors Industries Office
+1447,29.931214,-95.543423,http://clui.org/ludb/site/boots-coots-corporate-headquarters,Boots &amp; Coots Corporate Headquarters
+1448,28.917574,-95.37738,http://clui.org/ludb/site/bryan-mound-strategic-petroleum-reserve-storage-site,Bryan Mound Strategic Petroleum Reserve Storage Site
+1449,29.885604,-93.96512,http://clui.org/ludb/site/motiva-port-arthur,Motiva Port Arthur
+1450,29.77708,-95.618944,http://clui.org/ludb/site/mcdermott-corporate-headquarters,McDermott Corporate Headquarters
+1451,31.769625,-106.399927,http://clui.org/ludb/site/western-refining-el-paso,Western Refining El Paso
+1452,30.045992,-93.769941,http://clui.org/ludb/site/honeywell-orange,Honeywell Orange
+1453,29.784083,-95.655529,http://clui.org/ludb/site/diamond-offshore-corporate-headquarters,Diamond Offshore Corporate Headquarters
+1454,27.824047,-97.192505,http://clui.org/ludb/site/gulf-marine-fabricators-ingleside-yard,Gulf Marine Fabricators Ingleside Yard
+1455,29.691548,-95.554447,http://clui.org/ludb/site/national-oilwell-varco-corporate-headquarters,National Oilwell Varco Corporate Headquarters
+1456,29.75307,-95.372486,http://clui.org/ludb/site/kbr-corporate-headquarters,KBR Corporate Headquarters
+1457,29.717903,-95.324341,http://clui.org/ludb/site/orange-show,Orange Show
+1458,29.731888,-95.178766,http://clui.org/ludb/site/chevronphillips-pasadena-plastics-complex-0,ChevronPhillips Pasadena Plastics Complex
+1459,29.752829,-95.10448,http://clui.org/ludb/site/houston-fuel-oil-terminal,Houston Fuel Oil Terminal
+1460,30.671389,-104.022499,http://clui.org/ludb/site/mcdonald-observatory,McDonald Observatory
+1461,29.738968,-95.168595,http://clui.org/ludb/site/ethyl-corporation-plant-0,Ethyl Corporation Plant
+1462,29.576146,-95.510588,http://clui.org/ludb/site/tower-collapse-site-missouri-city,"Tower Collapse Site, Missouri City"
+1463,29.341734,-98.439445,http://clui.org/ludb/site/brooks-air-force-base,Brooks Air Force Base
+1464,29.965346,-93.931646,http://clui.org/ludb/site/huntsman-port-neches,Huntsman Port Neches
+1465,29.355659,-100.783836,http://clui.org/ludb/site/laughlin-air-force-base,Laughlin Air Force Base
+1466,35.69669,-101.365957,http://clui.org/ludb/site/chevronphillips-borger,ChevronPhillips Borger
+1467,29.442551,-98.612766,http://clui.org/ludb/site/southwest-research-institute,Southwest Research Institute
+1468,32.909023,-96.919547,http://clui.org/ludb/site/celanese-corporation-headquarters,Celanese Corporation Headquarters
+1469,29.974863,-94.216239,http://clui.org/ludb/site/goodyear-beaumont,Goodyear Beaumont
+1470,27.855165,-97.233597,http://clui.org/ludb/site/kiewit-offshore-services-ingleside-yard,Kiewit Offshore Services Ingleside Yard
+1471,35.627111,-101.975334,http://clui.org/ludb/site/exell-helium-plant,Exell Helium Plant
+1472,31.82142,-102.334943,http://clui.org/ludb/site/flint-hills-odessa-plant,Flint Hills Odessa Plant
+1473,29.073277,-95.747995,http://clui.org/ludb/site/chevronphillips-conocophillips-old-ocean,ChevronPhillips ConocoPhillips Old Ocean
+1474,29.835172,-95.560466,http://clui.org/ludb/site/bj-services-corporate-headquarters,BJ Services Corporate Headquarters
+1475,31.331646,-94.735408,http://clui.org/ludb/site/lufkin-industries-headquarters,Lufkin Industries Headquarters
+1476,29.76068,-95.396916,http://clui.org/ludb/site/baker-hughes-world-headquarters,Baker Hughes World Headquarters
+1477,29.249824,-95.214086,http://clui.org/ludb/site/chocolate-bayou-complex,Chocolate Bayou Complex
+1478,29.382475,-98.62487,http://clui.org/ludb/site/lackland-air-force-base,Lackland Air Force Base
+1479,29.816967,-95.106411,http://clui.org/ludb/site/lyondell-channelview,Lyondell Channelview
+1480,28.67455,-96.954303,http://clui.org/ludb/site/victoria-plastics-complex,Victoria Plastics Complex
+1481,31.76459,-106.389585,http://clui.org/ludb/site/el-paso-copper-refinery,El Paso Copper Refinery
+1482,29.761862,-93.918922,http://clui.org/ludb/site/golden-pass-lng-terminal,Golden Pass LNG Terminal
+1483,29.460823,-98.437546,http://clui.org/ludb/site/fort-sam-houston,Fort Sam Houston
+1484,29.757481,-95.370533,http://clui.org/ludb/site/kinder-morgan-corporate-headquarters,Kinder Morgan Corporate Headquarters
+1485,35.375131,-102.029925,http://clui.org/ludb/site/amarillo-ramp,Amarillo Ramp
+1486,27.867306,-97.172356,http://clui.org/ludb/site/aker-gulf-marine-ingleside-yard,Aker Gulf Marine Ingleside Yard
+1487,29.788431,-95.613531,http://clui.org/ludb/site/conocophillips-corporate-headquarters,ConocoPhillips Corporate Headquarters
+1488,39.774869,-75.577934,http://clui.org/ludb/site/hagley-museum,Hagley Museum
+1489,38.794244,-75.091389,http://clui.org/ludb/site/cape-henlopen,Cape Henlopen
+1490,39.668354,-79.977219,http://clui.org/ludb/site/morgantown-engineering-technical-center-doe,Morgantown Engineering Technical Center (DOE)
+1491,39.962092,-80.603868,http://clui.org/ludb/site/prabhupadas-palace-gold,Prabhupada&#039;s Palace of Gold
+1492,37.78612,-80.308342,http://clui.org/ludb/site/greenbrier-government-relocation-facility,Greenbrier Government Relocation Facility
+1493,38.432884,-79.839363,http://clui.org/ludb/site/national-radio-astronomy-observatory-green-bank,National Radio Astronomy Observatory Green Bank
+1494,37.72448,-80.668166,http://clui.org/ludb/site/alderson-federal-prison-camp,Alderson Federal Prison Camp
+1495,38.018363,-81.47049,http://clui.org/ludb/site/sample-mine,Sample Mine
+1496,38.370333,-81.68438,http://clui.org/ludb/site/south-charleston-plant,South Charleston Plant
+1497,39.0593,-78.971829,http://clui.org/ludb/site/moorefield-poultry-processing-plant,Moorefield Poultry Processing Plant
+1498,38.47382,-81.823254,http://clui.org/ludb/site/john-amos-power-plant,John Amos Power Plant
+1499,39.417671,-77.916246,http://clui.org/ludb/site/irs-computer-center,IRS Computer Center
+1500,38.133747,-81.410022,http://clui.org/ludb/site/center-national-responsememorial-tunnel,Center for National Response/Memorial Tunnel
+1501,38.51567,-79.279232,http://clui.org/ludb/site/sugar-grove-naval-communications-center,Sugar Grove Naval Communications Center
+1502,38.382106,-81.778708,http://clui.org/ludb/site/institute-plant,Institute Plant
+1503,38.069278,-81.081827,http://clui.org/ludb/site/new-river-gorge-bridge,New River Gorge Bridge
+1504,35.14946,-90.05859,http://clui.org/ludb/site/mud-island,Mud Island
+1505,35.049252,-84.362297,http://clui.org/ludb/site/ducktown-desert-site,Ducktown Desert Site
+1506,35.986549,-84.257337,http://clui.org/ludb/site/oak-ridge-national-laboratory,Oak Ridge National Laboratory
+1507,34.800907,-87.625839,http://clui.org/ludb/site/wilson-dam,Wilson Dam
+1508,36.196764,-84.071041,http://clui.org/ludb/site/tennessee-valley-authority-town-norris,Tennessee Valley Authority Town of Norris
+1509,36.534815,-82.62929,http://clui.org/ludb/site/holston-army-ammunition-plant,Holston Army Ammunition Plant
+1510,35.332947,-89.870049,http://clui.org/ludb/site/naval-support-activity-mid-south,Naval Support Activity Mid-South
+1511,36.051815,-87.777954,http://clui.org/ludb/site/world-o-tools-museum,World O&#039; Tools Museum
+1512,35.963036,-86.495316,http://clui.org/ludb/site/nissan-motor-automobile-plant,Nissan Motor Automobile Plant
+1513,35.602043,-83.815384,http://clui.org/ludb/site/cades-cove,Cades Cove
+1514,35.378887,-86.049469,http://clui.org/ludb/site/arnold-air-force-base,Arnold Air Force Base
+1515,35.794292,-83.535507,http://clui.org/ludb/site/dollywood,Dollywood
+1516,36.010487,-84.257507,http://clui.org/ludb/site/american-museum-science-and-energy,American Museum of Science and Energy
+1517,21.497637,-158.063263,http://clui.org/ludb/site/schofield-barracks,Schofield Barracks
+1518,21.316845,-158.062927,http://clui.org/ludb/site/barbers-point-naval-station,Barbers Point Naval Station
+1519,21.360874,-157.944656,http://clui.org/ludb/site/pearl-harbor-naval-shipyard,Pearl Harbor Naval Shipyard
+1520,19.825638,-155.474256,http://clui.org/ludb/site/mauna-kea-observatories,Mauna Kea Observatories
+1521,22.031826,-159.784459,http://clui.org/ludb/site/barking-sands-missile-range-site,Barking Sands Missile Range Site
+1522,21.330315,-157.946487,http://clui.org/ludb/site/hickam-air-force-base,Hickam Air Force Base
+1523,21.360874,-157.944656,http://clui.org/ludb/site/pearl-harbor-naval-station,Pearl Harbor Naval Station
+1524,21.354469,-157.955774,http://clui.org/ludb/site/pearl-harbor-submarine-base,Pearl Harbor Submarine Base
+1525,20.708154,-156.256742,http://clui.org/ludb/site/mount-haleakala-observatories,Mount Haleakala Observatories
+1526,22.036804,-159.78241,http://clui.org/ludb/site/sandia-lab-kauai-test-facility,Sandia Lab Kauai Test Facility
+1527,21.480467,-158.039108,http://clui.org/ludb/site/wheeler-army-air-field,Wheeler Army Air Field
+1528,19.754431,-155.536366,http://clui.org/ludb/site/pohakuloa-training-area,Pohakuloa Training Area
+1529,20.546983,-156.607704,http://clui.org/ludb/site/kahoolawe-island-bombing-range,Kahoolawe Island Bombing Range
+1530,21.435493,-157.756973,http://clui.org/ludb/site/kaneohe-bay-marine-corps-base,Kaneohe Bay Marine Corps Base
+1531,33.443117,-112.006656,http://clui.org/ludb/site/honeywell-phoenix,Honeywell Phoenix
+1532,33.428829,-112.367606,http://clui.org/ludb/site/phoenix-goodyear-airport,Phoenix Goodyear Airport
+1533,33.491934,-111.629264,http://clui.org/ludb/site/phoenix-directional-sign,Phoenix Directional Sign
+1534,33.620303,-111.913991,http://clui.org/ludb/site/scottsdale-airport,Scottsdale Airport
+1535,33.699854,-112.501802,http://clui.org/ludb/site/wittmann-proving-ground,Wittmann Proving Ground
+1536,32.688743,-110.686569,http://clui.org/ludb/site/san-manuel-mine,San Manuel Mine
+1537,34.874176,-114.125462,http://clui.org/ludb/site/yucca-proving-ground,Yucca Proving Ground
+1538,32.956757,-109.698873,http://clui.org/ludb/site/safford-mine,Safford Mine
+1539,31.600254,-110.434785,http://clui.org/ludb/site/fort-huachuca-uav-site,Fort Huachuca UAV Site
+1540,33.255055,-111.88718,http://clui.org/ludb/site/orbital-launch-systems-chandler,Orbital Launch Systems Chandler
+1541,32.442876,-103.057723,http://clui.org/ludb/site/andrews-county-disposal-site,Andrews County Disposal Site
+1542,47.875556,-118.105817,http://clui.org/ludb/site/sherwood-disposal-site,Sherwood Disposal Site
+1543,39.250087,-81.685866,http://clui.org/ludb/site/parkersburg-zirconium-mill-site,Parkersburg Zirconium Mill Site
+1544,43.271683,-103.792756,http://clui.org/ludb/site/edgemont-disposal-cell,Edgemont Disposal Cell
+1545,40.948079,-112.209892,http://clui.org/ludb/site/antelope-island-0,Antelope Island
+1546,41.502768,-113.517437,http://clui.org/ludb/site/terrace-town-site,Terrace Town Site
+1547,40.76187,-112.782662,http://clui.org/ludb/site/delle,Delle
+1548,40.724929,-112.227901,http://clui.org/ludb/site/black-rock-beach-resort-site-0,Black Rock Beach Resort Site
+1549,40.501944,-114.032222,http://clui.org/ludb/site/blue-lake-0,Blue Lake
+1550,40.738909,-113.979421,http://clui.org/ludb/site/intrepid-potash,Intrepid Potash
+1551,41.261405,-112.232101,http://clui.org/ludb/site/zirconium-plant,Zirconium Plant
+1552,40.721518,-112.198241,http://clui.org/ludb/site/kennecott-copper-smelter,Kennecott Copper Smelter
+1553,40.709264,-112.508808,http://clui.org/ludb/site/morton-salt-grantsville-facility,Morton Salt Grantsville Facility
+1554,40.724047,-113.283366,http://clui.org/ludb/site/knolls,Knolls
+1555,37.24852,-107.903273,http://clui.org/ludb/site/durango-disposal-cell,Durango Disposal Cell
+1556,38.902197,-108.336525,http://clui.org/ludb/site/grand-junction-disposal-cell,Grand Junction Disposal Cell
+1557,38.510379,-106.846955,http://clui.org/ludb/site/gunnison-disposal-cell,Gunnison Disposal Cell
+1558,38.360553,-108.754327,http://clui.org/ludb/site/naturita-disposal-cell,Naturita Disposal Cell
+1559,39.614548,-107.800984,http://clui.org/ludb/site/rifle-disposal-cell,Rifle Disposal Cell
+1560,35.269446,-107.947197,http://clui.org/ludb/site/bluewater-disposal-cell,Bluewater Disposal Cell
+1561,35.242951,-107.863426,http://clui.org/ludb/site/homestake-uranium-mill-tailings-pile,Homestake Uranium Mill Tailings Pile
+1562,37.851102,-109.329071,http://clui.org/ludb/site/monticello-uranium-disposal-cell,Monticello Uranium Disposal Cell
+1563,35.18482,-107.336426,http://clui.org/ludb/site/l-bar-disposal-cell,L Bar Disposal Cell
+1564,38.961914,-109.803071,http://clui.org/ludb/site/crescent-junction-disposal-cell,Crescent Junction Disposal Cell
